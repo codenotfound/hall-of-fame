@@ -1,5 +1,83 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #20 DIAMOND",
+    "date": "2018-04-30",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC20_DIAMOND_2100",
+    "video": "",
+    "results": [
+      {
+        "nickname": "MiXeR",
+        "placement": 1,
+        "prize": "Logitech G402",
+        "country": "UA"
+      },
+      {
+        "nickname": "F1yOver",
+        "placement": 2,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "CH33RRA",
+        "placement": 3,
+        "prize": "300 RUR",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #20 GOLD",
+    "date": "2018-04-30",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC20_GOLD_1725",
+    "video": "",
+    "results": [
+      {
+        "nickname": "badUggly",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Howl",
+        "placement": 2,
+        "prize": "300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "VdnL",
+        "placement": 3,
+        "prize": "150 RUR",
+        "country": "EU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #20 SILVER",
+    "date": "2018-04-30",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC20_SILVER_1350",
+    "video": "",
+    "results": [
+      {
+        "nickname": "aLmerA",
+        "placement": 1,
+        "prize": "600 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "Elkiaora",
+        "placement": 2,
+        "prize": "300 RUR",
+        "country": "RU"
+      },
+      {
+        "nickname": "LoomUp",
+        "placement": 3,
+        "prize": "150 RUR",
+        "country": "EU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QL Duel Cup #16 Elo Masters 1700",
     "date": "2017-04-14",
     "bracket": "https://carnage.challonge.com/uniorzQL16_Masters_Elo_1700",
