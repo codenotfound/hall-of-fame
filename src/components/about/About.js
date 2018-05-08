@@ -18,6 +18,7 @@ const About = () => (
                 <li><a href="http://donatepay.ru/donation/uniorz" className="text-white">Donatepay</a></li>
             </ul>      
         </div>
+        <iframe src="https://discordapp.com/widget?id=376346568468463616&theme=dark" height="500" allowtransparency="true" frameborder="0"></iframe>
     </div>
 );
 
