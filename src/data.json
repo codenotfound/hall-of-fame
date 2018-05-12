@@ -1,5 +1,83 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #21 DIAMOND",
+    "date": "2018-05-12",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC21_DIAMOND_2100",
+    "video": "",
+    "results": [
+      {
+        "nickname": "F1yOver",
+        "placement": 1,
+        "prize": "2x 300 RUB Steam cards",
+        "country": "RU"
+      },
+      {
+        "nickname": "Troolz",
+        "placement": 2,
+        "prize": "300 RUB (donated it back to prize fund)",
+        "country": "RU"
+      },
+      {
+        "nickname": "HDM",
+        "placement": 3,
+        "prize": "150 RUR (donated it back to prize fund)",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #21 GOLD",
+    "date": "2018-05-12",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC21_GOLD_1725",
+    "video": "",
+    "results": [
+      {
+        "nickname": "Revan",
+        "placement": 1,
+        "prize": "600 RUB",
+        "country": "RU"
+      },
+      {
+        "nickname": "GobStar",
+        "placement": 2,
+        "prize": "300 RUB",
+        "country": "RU"
+      },
+      {
+        "nickname": "AZiDeX",
+        "placement": 3,
+        "prize": "150 RUR (donated it back to prize fund)",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #21 SILVER",
+    "date": "2018-05-12",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC21_SILVER_1350",
+    "video": "",
+    "results": [
+      {
+        "nickname": "Leppard",
+        "placement": 1,
+        "prize": "40 PLN Steam card",
+        "country": "RU"
+      },
+      {
+        "nickname": "gforce",
+        "placement": 2,
+        "prize": "300 RUR (donated it to tournament organizers)",
+        "country": "RU"
+      },
+      {
+        "nickname": "andryshan",
+        "placement": 3,
+        "prize": "150 RUR (donated it back to prize fund)",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #20 DIAMOND",
     "date": "2018-04-30",
     "bracket": "https://carnage.challonge.com/ru/uniorzQC20_DIAMOND_2100",
