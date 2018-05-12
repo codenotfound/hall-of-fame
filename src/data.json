@@ -3,7 +3,7 @@
     "tournamentName": "Uniorz Challenge QC Duel Cup #20 DIAMOND",
     "date": "2018-04-30",
     "bracket": "https://carnage.challonge.com/ru/uniorzQC20_DIAMOND_2100",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=WWnQaMz6wqw&list=PLM2GWd9jxjZcSgTbgru0w2RVS5Xkszj0J",
     "results": [
       {
         "nickname": "MiXeR",
@@ -29,7 +29,7 @@
     "tournamentName": "Uniorz Challenge QC Duel Cup #20 GOLD",
     "date": "2018-04-30",
     "bracket": "https://carnage.challonge.com/ru/uniorzQC20_GOLD_1725",
-    "video": "",
+    "video": "https://youtu.be/C9Q6WPC9XNI",
     "results": [
       {
         "nickname": "badUggly",
@@ -40,7 +40,7 @@
       {
         "nickname": "Howl",
         "placement": 2,
-        "prize": "300 RUR",
+        "prize": "300 RUR (donated it back to prize fund)",
         "country": "RU"
       },
       {
@@ -55,7 +55,7 @@
     "tournamentName": "Uniorz Challenge QC Duel Cup #20 SILVER",
     "date": "2018-04-30",
     "bracket": "https://carnage.challonge.com/ru/uniorzQC20_SILVER_1350",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=X_GLneoLDDo",
     "results": [
       {
         "nickname": "aLmerA",
@@ -161,7 +161,7 @@
     "bracket": "http://carnage.challonge.com/uniorzQC19_SILVER_1350",
     "results": [
       {
-        "nickname": "LinuzhVdn",
+        "nickname": "VdnL",
         "placement": 1,
         "prize": "600 RUR",
         "country": "RU"
