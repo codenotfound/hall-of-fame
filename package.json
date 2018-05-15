@@ -2,7 +2,7 @@
   "name": "hall-of-fame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://codenotfound.github.io/hall-of-fame/",
+  "homepage": "http://carnage-league.info/",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "country-code-emoji": "0.0.1",
