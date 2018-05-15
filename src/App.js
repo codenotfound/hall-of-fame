@@ -18,7 +18,7 @@ class App extends Component {
     const renderMode = this.getRenderMode();
 
     return (
-      <Router basename="/hall-of-fame">
+      <Router>
         <div>
             <Navbar />
 
