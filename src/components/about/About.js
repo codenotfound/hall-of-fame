@@ -13,6 +13,7 @@ const About = () => (
                 <h4 className="text-white">Social links:</h4>
             <ul>
                 <li><a href="https://discord.gg/XRKU4py" className="text-white">Discord</a></li>
+                <li><a href="https://twitter.com/CarnageQuake" className="text-white">Twitter</a></li>
                 <li><a href="https://vk.com/carnage_ql" className="text-white">VK</a></li>
                 <li><a href="https://carnage.challonge.com/" className="text-white">Challonge</a></li>
                 <li><a href="http://donatepay.ru/donation/uniorz" className="text-white">Donatepay</a></li>
