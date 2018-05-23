@@ -7,7 +7,7 @@ const About = () => (
             <p className="lead text-white">
                 Carnage Quake League is an esports organization for non-pro players.
                 We host Uniorz Challenge cups in Quake Champions and Quake Live.
-                We also have an active Discord community.
+                We also have an active Discord community. Improve while having fun!
             </p>
             <hr className="my-4 bg-light"/>
                 <h4 className="text-white">Social links:</h4>
