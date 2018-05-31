@@ -1,5 +1,63 @@
 [
   {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #23 GOLD",
+    "date": "2018-05-26",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC23_GOLD_1725",
+    "video": "https://www.youtube.com/watch?v=G9kgYyTPpYs",
+    "results": [
+      {
+        "nickname": "ymep",
+        "placement": 1,
+        "prize": "600 RUB (donated it back to prize fund)",
+        "country": "PL"
+      },
+      {
+        "nickname": "MILL3NIUM",
+        "placement": 2,
+        "prize": "150 RUB (donated it back to prize fund)",
+        "country": "RU"
+      },
+      {
+        "nickname": "keeler",
+        "placement": 3,
+        "prize": "2 chests + 2 backpacks",
+        "country": "RU"
+      }
+    ]
+  },
+  {
+    "tournamentName": "Uniorz Challenge QC Duel Cup #23 SILVER",
+    "date": "2018-05-26",
+    "bracket": "https://carnage.challonge.com/ru/uniorzQC23_SILVER_1350",
+    "video": "https://www.youtube.com/watch?v=WMJfi4sjEF0",
+    "results": [
+      {
+        "nickname": "x",
+        "placement": 1,
+        "prize": "600 RUB",
+        "country": "RU"
+      },
+      {
+        "nickname": "kalin",
+        "placement": 2,
+        "prize": "150 RUB (donated it back to prize fund)",
+        "country": "RU"
+      },
+      {
+        "nickname": "Dikard",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      },
+      {
+        "nickname": "Vova Ramone",
+        "placement": 3,
+        "prize": "1 chest + 1 backpack",
+        "country": "RU"
+      }
+    ]
+  },
+  {
     "tournamentName": "Uniorz Challenge QC Duel Cup #22 DIAMOND",
     "date": "2018-05-19",
     "bracket": "https://carnage.challonge.com/ru/uniorzQC22_DIAMOND_2100",
