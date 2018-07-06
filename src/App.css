@@ -5,9 +5,11 @@
     opacity: 0.3;
     transition: 1s;
 }
+
 .discord-link:hover {
     opacity: 1;
 }
+
 .discord-link__svg {
     height: 40px;
     fill: #7289DA;
@@ -60,13 +62,18 @@
         fill: #662D8C;
     }
     78% {
-        fill:  #ED1E79;
+        fill: #ED1E79;
     }
     100% {
-        fill: #D4145A;;
+        fill: #D4145A;
     }
 }
 
 .navbar--carnage {
     background: linear-gradient(45deg, #FCA5F1, #B5FFFF);
+}
+
+.player-medal-list {
+    display: grid;
+    grid-template-columns: repeat(30, 10px);
 }

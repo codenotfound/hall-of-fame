@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import YoutubeEmbed from '../youtube-embed/YoutubeEmbed'
+import YoutubeEmbed from '../youtube-embed/YoutubeEmbed';
+import Loader from '../loader/Loader';
 
 const VideoColumn = props => (
     <div className="col-sm-4 mb-4">
@@ -9,15 +10,14 @@ const VideoColumn = props => (
 
 export default class VideoGrid extends Component {
     render() {
-        window.videoData = [];
         const videoColumns = [];
         this.props.tournaments.forEach((tournament, i) => {
-           if(tournament.video && tournament.video.includes('you') && tournament.tournamentName) {
+           if(tournament.video && tournament.video.includes('you') && tournament.title) {
                videoColumns.push(
                    <VideoColumn
                        src={tournament.video}
-                       title={tournament.tournamentName}
-                       key={`${tournament.tournamentName}_${i}`}
+                       title={tournament.title}
+                       key={`${tournament.title}_${i}`}
                    />
                );
            }
@@ -27,7 +27,9 @@ export default class VideoGrid extends Component {
             <div className="container">
                 <h1 className="display-3 mb-5 mt-2">VODs</h1>
                 <div className="row">
-                    {videoColumns}
+                  {this.props.isLoading && <Loader/>}
+
+                  {!this.props.isLoading && videoColumns}
                 </div>
             </div>
         )

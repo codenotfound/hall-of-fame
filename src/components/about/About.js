@@ -17,11 +17,12 @@ const About = () => (
                 <li><a href="https://vk.com/carnage_ql" className="text-white">VK</a></li>
                 <li><a href="https://carnage.challonge.com/" className="text-white">Challonge</a></li>
                 <li><a href="http://donatepay.ru/donation/uniorz" className="text-white">Donatepay</a></li>
-            </ul>      
+                <li><a href="https://s.team/chat/eV31QfuK" className="text-white">Steam Chat</a></li>
+            </ul>
         </div>
         <div className="mb-3">
-            <iframe title="Discord" src="https://discordapp.com/widget?id=376346568468463616&theme=dark" height="500" allowtransparency="true" frameborder="0"></iframe>
-        </div> 
+            <iframe title="Discord" src="https://discordapp.com/widget?id=376346568468463616&theme=dark" height="500" allowtransparency="true" frameBorder="0"></iframe>
+        </div>
     </div>
 );
 

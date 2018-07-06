@@ -12,7 +12,6 @@ export default class ResultsList extends Component {
           } else {
             return <Result key={`result_${i}`} {...result} />
           }
-
         }
       );
 
