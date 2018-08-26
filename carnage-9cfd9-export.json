@@ -1,0 +1,2120 @@
+{
+  "entities" : {
+    "players" : {
+      "002b5dfb-5176-4dc2-b869-e44fb6acf593" : {
+        "country" : "NO",
+        "id" : "002b5dfb-5176-4dc2-b869-e44fb6acf593",
+        "nickname" : "Yanai"
+      },
+      "00ba858c-e8a7-479b-8dbf-36581c0b2b38" : {
+        "country" : "BY",
+        "id" : "00ba858c-e8a7-479b-8dbf-36581c0b2b38",
+        "nickname" : "kroker"
+      },
+      "0255799d-2de4-4277-8283-af77c682063a" : {
+        "country" : "RU",
+        "id" : "0255799d-2de4-4277-8283-af77c682063a",
+        "nickname" : "F1yOver"
+      },
+      "040e7c2a-8eff-4253-9772-a336a4131e47" : {
+        "country" : "RU",
+        "id" : "040e7c2a-8eff-4253-9772-a336a4131e47",
+        "nickname" : "cyberg"
+      },
+      "0411cb22-e23d-4970-8ff4-2d3cde1542f7" : {
+        "country" : "RU",
+        "id" : "0411cb22-e23d-4970-8ff4-2d3cde1542f7",
+        "nickname" : "Klyb"
+      },
+      "05d89157-4f70-4051-b68d-55c829d70e7c" : {
+        "country" : "RU",
+        "id" : "05d89157-4f70-4051-b68d-55c829d70e7c",
+        "nickname" : "Troolz"
+      },
+      "0d6b7f0b-7c67-4486-a049-1fe57ba9bf88" : {
+        "country" : "RU",
+        "id" : "0d6b7f0b-7c67-4486-a049-1fe57ba9bf88",
+        "nickname" : "ZOONY"
+      },
+      "1087aaec-7a2a-46b2-afea-abf3ac305bac" : {
+        "country" : "RU",
+        "id" : "1087aaec-7a2a-46b2-afea-abf3ac305bac",
+        "nickname" : "gforce"
+      },
+      "17166414-97fb-4434-8996-0b56ca6cb3c1" : {
+        "country" : "RU",
+        "id" : "17166414-97fb-4434-8996-0b56ca6cb3c1",
+        "nickname" : "GobStar"
+      },
+      "176a67c7-ea25-4eea-8925-bbee91239cd3" : {
+        "country" : "RU",
+        "id" : "176a67c7-ea25-4eea-8925-bbee91239cd3",
+        "nickname" : "PWNDx"
+      },
+      "1c0a0f39-4af8-4828-a229-64ea310c62f8" : {
+        "country" : "RU",
+        "id" : "1c0a0f39-4af8-4828-a229-64ea310c62f8",
+        "nickname" : "Tago"
+      },
+      "1da48627-e1b5-4586-8b87-3fb6a8ba85b3" : {
+        "country" : "RU",
+        "id" : "1da48627-e1b5-4586-8b87-3fb6a8ba85b3",
+        "nickname" : "DefDogs"
+      },
+      "215acebd-7e51-48e3-8e47-520ca8e60772" : {
+        "country" : "RU",
+        "id" : "215acebd-7e51-48e3-8e47-520ca8e60772",
+        "nickname" : "NonServium"
+      },
+      "2202e4d9-2ef6-4f62-a91d-5557f56e4d7a" : {
+        "country" : "RU",
+        "id" : "2202e4d9-2ef6-4f62-a91d-5557f56e4d7a",
+        "nickname" : "klyb"
+      },
+      "237c6bcb-a951-45f3-a132-ae36cf42ea0a" : {
+        "country" : "RU",
+        "id" : "237c6bcb-a951-45f3-a132-ae36cf42ea0a",
+        "nickname" : "TBAPb"
+      },
+      "2612bffc-70ed-4c13-9920-a61c285440b7" : {
+        "country" : "RU",
+        "id" : "2612bffc-70ed-4c13-9920-a61c285440b7",
+        "nickname" : "Elkiaora"
+      },
+      "290faf5c-8083-467a-bb4c-38335895fd34" : {
+        "country" : "RU",
+        "id" : "290faf5c-8083-467a-bb4c-38335895fd34",
+        "nickname" : "PepCo"
+      },
+      "2af64430-7442-4755-93d6-d335717e155a" : {
+        "country" : "RU",
+        "id" : "2af64430-7442-4755-93d6-d335717e155a",
+        "nickname" : "Wh1t3r"
+      },
+      "2c5c965a-0cfb-43d1-8c6e-6e258babf919" : {
+        "country" : "RU",
+        "id" : "2c5c965a-0cfb-43d1-8c6e-6e258babf919",
+        "nickname" : "jericho"
+      },
+      "3273daea-ea69-4721-a678-1ba871ef392e" : {
+        "country" : "DE",
+        "id" : "3273daea-ea69-4721-a678-1ba871ef392e",
+        "nickname" : "LoomUp"
+      },
+      "36203134-509a-4f2d-b1ca-ae31376c4643" : {
+        "country" : "RU",
+        "id" : "36203134-509a-4f2d-b1ca-ae31376c4643",
+        "nickname" : "freakperl"
+      },
+      "3a73326c-3ab5-44e8-a1c4-2ab3a6e46bc7" : {
+        "country" : "RU",
+        "id" : "3a73326c-3ab5-44e8-a1c4-2ab3a6e46bc7",
+        "nickname" : "napalot"
+      },
+      "3d733a2e-b599-470b-bdab-d2eb5e181043" : {
+        "country" : "RU",
+        "id" : "3d733a2e-b599-470b-bdab-d2eb5e181043",
+        "nickname" : "sashkapulya"
+      },
+      "407944c8-d889-4328-8af0-819f524fa651" : {
+        "country" : "BY",
+        "id" : "407944c8-d889-4328-8af0-819f524fa651",
+        "nickname" : "gorky"
+      },
+      "419c29bb-b2e2-4f11-ad09-3d9af88d3e03" : {
+        "country" : "RU",
+        "id" : "419c29bb-b2e2-4f11-ad09-3d9af88d3e03",
+        "nickname" : "Dikard"
+      },
+      "430a5683-7438-4301-bb7d-a707b69d9cd1" : {
+        "country" : "CZ",
+        "id" : "430a5683-7438-4301-bb7d-a707b69d9cd1",
+        "nickname" : "divnyz"
+      },
+      "48d763e8-df8b-4817-b3d5-848d108d2949" : {
+        "country" : "GB",
+        "id" : "48d763e8-df8b-4817-b3d5-848d108d2949",
+        "nickname" : "n0cturn3"
+      },
+      "4f22581d-d0c8-4e98-947f-8f365507a624" : {
+        "country" : "UA",
+        "id" : "4f22581d-d0c8-4e98-947f-8f365507a624",
+        "nickname" : "UHTL"
+      },
+      "4f262d1d-6987-445a-b51e-e2afa1df3a98" : {
+        "country" : "RU",
+        "id" : "4f262d1d-6987-445a-b51e-e2afa1df3a98",
+        "nickname" : "s1d1r"
+      },
+      "5340d9f6-eaa1-4f61-8ff1-2f83a70500fe" : {
+        "country" : "RU",
+        "id" : "5340d9f6-eaa1-4f61-8ff1-2f83a70500fe",
+        "nickname" : "_blame"
+      },
+      "53789b9a-e90d-438e-91f7-3d33426fef71" : {
+        "country" : "RU",
+        "id" : "53789b9a-e90d-438e-91f7-3d33426fef71",
+        "nickname" : "Zuno"
+      },
+      "55a18c27-0e8c-416c-821a-725917519ff0" : {
+        "country" : "RU",
+        "id" : "55a18c27-0e8c-416c-821a-725917519ff0",
+        "nickname" : "MILL3NIUM"
+      },
+      "56313080-2901-4384-b51e-5c7e2060fb95" : {
+        "country" : "RU",
+        "id" : "56313080-2901-4384-b51e-5c7e2060fb95",
+        "nickname" : "Leppard"
+      },
+      "580f7e38-9f23-423d-ad46-8cafe8cf5ffd" : {
+        "country" : "RU",
+        "id" : "580f7e38-9f23-423d-ad46-8cafe8cf5ffd",
+        "nickname" : "keeler"
+      },
+      "58a5c774-8df4-46b5-aca3-0891c4c85e39" : {
+        "country" : "RU",
+        "id" : "58a5c774-8df4-46b5-aca3-0891c4c85e39",
+        "nickname" : "baragoz"
+      },
+      "5b2792cf-1b5f-4bc4-a487-72e4fd4b8508" : {
+        "country" : "BY",
+        "id" : "5b2792cf-1b5f-4bc4-a487-72e4fd4b8508",
+        "nickname" : "BarsMinsk"
+      },
+      "5c2883b2-9e6f-4dd4-a8f5-c55f9acfde3d" : {
+        "country" : "RU",
+        "id" : "5c2883b2-9e6f-4dd4-a8f5-c55f9acfde3d",
+        "nickname" : "Troolz & pecka"
+      },
+      "5dea55a2-3ddf-4e41-a8e5-368d5637aa0c" : {
+        "country" : "RU",
+        "id" : "5dea55a2-3ddf-4e41-a8e5-368d5637aa0c",
+        "nickname" : "namemane"
+      },
+      "608fb38c-4ad1-43ca-97c1-60412302fba2" : {
+        "country" : "RU",
+        "id" : "608fb38c-4ad1-43ca-97c1-60412302fba2",
+        "nickname" : "danches"
+      },
+      "62fd12b3-1f89-4097-9633-6548bce0ca8c" : {
+        "country" : "RU",
+        "id" : "62fd12b3-1f89-4097-9633-6548bce0ca8c",
+        "nickname" : "Smashzoom"
+      },
+      "6308ce8a-9599-4264-9d23-4d7827af0166" : {
+        "country" : "RU",
+        "id" : "6308ce8a-9599-4264-9d23-4d7827af0166",
+        "nickname" : "Dreikblack & klyb"
+      },
+      "647b18e7-e8fb-4612-a67d-d52cc57a1e6d" : {
+        "country" : "RU",
+        "id" : "647b18e7-e8fb-4612-a67d-d52cc57a1e6d",
+        "nickname" : "AZiDeX"
+      },
+      "6630e414-3f99-4296-9eab-f116e3d0cea9" : {
+        "country" : "RU",
+        "id" : "6630e414-3f99-4296-9eab-f116e3d0cea9",
+        "nickname" : "ethna"
+      },
+      "66a76ecb-d5ff-421d-bf70-ca9361d0e070" : {
+        "country" : "RU",
+        "id" : "66a76ecb-d5ff-421d-bf70-ca9361d0e070",
+        "nickname" : "quader"
+      },
+      "672c9b7e-f633-4116-a90c-aec345297f1d" : {
+        "country" : "BY",
+        "id" : "672c9b7e-f633-4116-a90c-aec345297f1d",
+        "nickname" : "PotatoEater"
+      },
+      "683ec565-db94-472b-a774-e075143938a2" : {
+        "country" : "RU",
+        "id" : "683ec565-db94-472b-a774-e075143938a2",
+        "nickname" : "andryshan"
+      },
+      "6b37f6a8-0068-4a85-b9c8-6fdcc6662771" : {
+        "country" : "DE",
+        "id" : "6b37f6a8-0068-4a85-b9c8-6fdcc6662771",
+        "nickname" : "1f0x"
+      },
+      "6b9ea8d3-d6df-44be-a109-ceb1db5d0597" : {
+        "country" : "RU",
+        "id" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "nickname" : "pecka"
+      },
+      "6e1e5808-eac9-46f3-b38d-1dcaf1d40677" : {
+        "country" : "RU",
+        "id" : "6e1e5808-eac9-46f3-b38d-1dcaf1d40677",
+        "nickname" : "Killalala"
+      },
+      "708fba86-8e5e-4ab6-8bdf-12e33d9dc77f" : {
+        "country" : "BY",
+        "id" : "708fba86-8e5e-4ab6-8bdf-12e33d9dc77f",
+        "nickname" : "LadyDiana"
+      },
+      "72a7c268-8f16-412d-86eb-84c3bcd67edf" : {
+        "country" : "RU",
+        "id" : "72a7c268-8f16-412d-86eb-84c3bcd67edf",
+        "nickname" : "Ondest"
+      },
+      "7448498a-bd1b-4709-8964-bcf458bff4fe" : {
+        "country" : "RU",
+        "id" : "7448498a-bd1b-4709-8964-bcf458bff4fe",
+        "nickname" : "Stealmer"
+      },
+      "76855f3f-2a6d-48cb-befd-10476b608132" : {
+        "country" : "BY",
+        "id" : "76855f3f-2a6d-48cb-befd-10476b608132",
+        "nickname" : "ZenYS"
+      },
+      "79976a3b-3345-48d9-b98c-1a63c4d7921b" : {
+        "country" : "RU",
+        "id" : "79976a3b-3345-48d9-b98c-1a63c4d7921b",
+        "nickname" : "Rell"
+      },
+      "79e3d8b5-b693-4828-8990-4922b0cfb700" : {
+        "country" : "RU",
+        "id" : "79e3d8b5-b693-4828-8990-4922b0cfb700",
+        "nickname" : "ANK519"
+      },
+      "7b5530e2-440c-403b-a49c-55a1e25d34dd" : {
+        "country" : "RU",
+        "id" : "7b5530e2-440c-403b-a49c-55a1e25d34dd",
+        "nickname" : "klyb & sidir"
+      },
+      "7edbe045-82e5-4647-a658-660ca8eeeba7" : {
+        "country" : "RU",
+        "id" : "7edbe045-82e5-4647-a658-660ca8eeeba7",
+        "nickname" : "BaTHbIEPyKi"
+      },
+      "83c9707b-a099-4b7d-b61f-816ada81a461" : {
+        "country" : "RU",
+        "id" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "nickname" : "CH33RRA"
+      },
+      "8611b9ab-abd3-4779-99fb-6276943e736d" : {
+        "country" : "RU",
+        "id" : "8611b9ab-abd3-4779-99fb-6276943e736d",
+        "nickname" : "tcr"
+      },
+      "878b5df0-09c8-4b7e-9a66-8a839bc2db2a" : {
+        "country" : "RU",
+        "id" : "878b5df0-09c8-4b7e-9a66-8a839bc2db2a",
+        "nickname" : "Myaut"
+      },
+      "8859dfc4-b4b2-4f17-82eb-dc53e13af3d2" : {
+        "country" : "RU",
+        "id" : "8859dfc4-b4b2-4f17-82eb-dc53e13af3d2",
+        "nickname" : "x"
+      },
+      "899b2918-bf40-4172-a3a0-9ab4ac78432b" : {
+        "country" : "RU",
+        "id" : "899b2918-bf40-4172-a3a0-9ab4ac78432b",
+        "nickname" : "pdemon"
+      },
+      "8ae7059e-15a6-47fb-bd20-0e32cedf99d1" : {
+        "country" : "RU",
+        "id" : "8ae7059e-15a6-47fb-bd20-0e32cedf99d1",
+        "nickname" : "pecka & Rell"
+      },
+      "94a036a6-0372-4961-9140-568493c8a78d" : {
+        "country" : "RU",
+        "id" : "94a036a6-0372-4961-9140-568493c8a78d",
+        "nickname" : "MysticZol"
+      },
+      "9786daba-65b6-42f0-a2f2-6a89c28a9930" : {
+        "country" : "RU",
+        "id" : "9786daba-65b6-42f0-a2f2-6a89c28a9930",
+        "nickname" : "Ganibal"
+      },
+      "9e66a6d2-7907-4be3-a1db-9896dd8048b6" : {
+        "country" : "BY",
+        "id" : "9e66a6d2-7907-4be3-a1db-9896dd8048b6",
+        "nickname" : "Ice313"
+      },
+      "a369981e-7643-46a5-988e-c72f83c9b21b" : {
+        "country" : "RU",
+        "id" : "a369981e-7643-46a5-988e-c72f83c9b21b",
+        "nickname" : "jokke"
+      },
+      "a427a4f6-c680-4e69-b10a-c22b94ef1180" : {
+        "country" : "RU",
+        "id" : "a427a4f6-c680-4e69-b10a-c22b94ef1180",
+        "nickname" : "kalin"
+      },
+      "a5b3b295-b6c1-412e-bfa0-20c9a96776bc" : {
+        "country" : "RU",
+        "id" : "a5b3b295-b6c1-412e-bfa0-20c9a96776bc",
+        "nickname" : "badUggly"
+      },
+      "a7079e06-68e4-4570-8803-ebc7c477854f" : {
+        "country" : "RU",
+        "id" : "a7079e06-68e4-4570-8803-ebc7c477854f",
+        "nickname" : "aLmerA"
+      },
+      "a7764a37-14c1-4508-9a6c-4d867dfd4358" : {
+        "country" : "UA",
+        "id" : "a7764a37-14c1-4508-9a6c-4d867dfd4358",
+        "nickname" : "def1 & MiXeR"
+      },
+      "a796294e-dbbe-44d9-99bd-9629617d0357" : {
+        "country" : "RU",
+        "id" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "nickname" : "ProVest"
+      },
+      "a89cb6ea-28d3-403b-b5eb-3c7ef8640668" : {
+        "country" : "RU",
+        "id" : "a89cb6ea-28d3-403b-b5eb-3c7ef8640668",
+        "nickname" : "GedG"
+      },
+      "aee38cd8-2253-4e0d-b184-f356b81dd11b" : {
+        "country" : "UA",
+        "id" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "nickname" : "MiXeR"
+      },
+      "b9626916-c7e4-49e9-a3a0-eb8c4393e270" : {
+        "country" : "RU",
+        "id" : "b9626916-c7e4-49e9-a3a0-eb8c4393e270",
+        "nickname" : "L1mp"
+      },
+      "bc0f53a9-f955-4269-a713-59ba730f92c7" : {
+        "country" : "RU",
+        "id" : "bc0f53a9-f955-4269-a713-59ba730f92c7",
+        "nickname" : "deathvu"
+      },
+      "be2ad6bb-5ed8-44ca-a531-5b52df8affee" : {
+        "country" : "PL",
+        "id" : "be2ad6bb-5ed8-44ca-a531-5b52df8affee",
+        "nickname" : "ymep"
+      },
+      "bf777442-d517-4172-8836-edb6ead08c16" : {
+        "country" : "RU",
+        "id" : "bf777442-d517-4172-8836-edb6ead08c16",
+        "nickname" : "Howl"
+      },
+      "c21de8b5-0fb4-45a6-a416-0ce194ab7fc3" : {
+        "country" : "RU",
+        "id" : "c21de8b5-0fb4-45a6-a416-0ce194ab7fc3",
+        "nickname" : "prestij"
+      },
+      "d060ab0a-a316-4eaf-8854-ab636c1ddfa1" : {
+        "country" : "GB",
+        "id" : "d060ab0a-a316-4eaf-8854-ab636c1ddfa1",
+        "nickname" : "sno"
+      },
+      "d55a0bc7-e709-4ced-85f2-2de2ae0069aa" : {
+        "country" : "RU",
+        "id" : "d55a0bc7-e709-4ced-85f2-2de2ae0069aa",
+        "nickname" : "Mickl"
+      },
+      "d79a3d3b-420f-4444-ab98-2ec1a0df895c" : {
+        "country" : "RU",
+        "id" : "d79a3d3b-420f-4444-ab98-2ec1a0df895c",
+        "nickname" : "NoMouse"
+      },
+      "d7c31ca5-223a-42b6-84d7-109ed10e0e66" : {
+        "country" : "DE",
+        "id" : "d7c31ca5-223a-42b6-84d7-109ed10e0e66",
+        "nickname" : "Taka"
+      },
+      "d8a159f0-664e-4362-8627-b74fa4949d66" : {
+        "country" : "RU",
+        "id" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "nickname" : "Revan"
+      },
+      "da41030b-d85e-4b72-b5be-b360248f695b" : {
+        "country" : "RU",
+        "id" : "da41030b-d85e-4b72-b5be-b360248f695b",
+        "nickname" : "h8m3"
+      },
+      "dce8ff3f-7b93-4cf3-9cc6-34e45300d208" : {
+        "country" : "BY",
+        "id" : "dce8ff3f-7b93-4cf3-9cc6-34e45300d208",
+        "nickname" : "CTuH9I"
+      },
+      "e4d108e4-ac10-4091-805a-e9ed3f17d34a" : {
+        "country" : "RU",
+        "id" : "e4d108e4-ac10-4091-805a-e9ed3f17d34a",
+        "nickname" : "NikitkaKalmar"
+      },
+      "e78deaac-3b32-4901-a71c-1042f6317f51" : {
+        "country" : "BY",
+        "id" : "e78deaac-3b32-4901-a71c-1042f6317f51",
+        "nickname" : "ValiKBLR"
+      },
+      "ea0a5cd9-2143-4225-b012-47ed9b586a25" : {
+        "country" : "RU",
+        "id" : "ea0a5cd9-2143-4225-b012-47ed9b586a25",
+        "nickname" : "Ridos"
+      },
+      "eed47b3b-1a83-4d54-96d0-ea56f66c327d" : {
+        "country" : "RU",
+        "id" : "eed47b3b-1a83-4d54-96d0-ea56f66c327d",
+        "nickname" : "Vova Ramone"
+      },
+      "f038cfbf-71cc-4b97-9e22-b3cedfdc2f8f" : {
+        "country" : "FI",
+        "id" : "f038cfbf-71cc-4b97-9e22-b3cedfdc2f8f",
+        "nickname" : "ollir"
+      },
+      "f3076112-b652-498a-9cb9-bc9ca66fc4f2" : {
+        "country" : "RU",
+        "id" : "f3076112-b652-498a-9cb9-bc9ca66fc4f2",
+        "nickname" : "VomittinG"
+      },
+      "f3f0da1b-a474-4ead-a227-dacbfe35c8ea" : {
+        "country" : "RS",
+        "id" : "f3f0da1b-a474-4ead-a227-dacbfe35c8ea",
+        "nickname" : "Anak1n"
+      },
+      "f5428993-2ebb-4235-91ec-fd9a41891843" : {
+        "country" : "RU",
+        "id" : "f5428993-2ebb-4235-91ec-fd9a41891843",
+        "nickname" : "antemos"
+      },
+      "f62b9fb2-9a3c-4d99-98a1-b1baee71d472" : {
+        "country" : "RU",
+        "id" : "f62b9fb2-9a3c-4d99-98a1-b1baee71d472",
+        "nickname" : "VdnL"
+      },
+      "f6dfc141-3607-471d-9b25-0d188c6bf429" : {
+        "country" : "RU",
+        "id" : "f6dfc141-3607-471d-9b25-0d188c6bf429",
+        "nickname" : "nLbooza & ZixGeeSu"
+      },
+      "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef" : {
+        "country" : "RU",
+        "id" : "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef",
+        "nickname" : "HDM"
+      }
+    },
+    "results" : {
+      "01ce3544-bd4b-49b9-aae1-a0ca3d80b978" : {
+        "id" : "01ce3544-bd4b-49b9-aae1-a0ca3d80b978",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "600 RUB"
+      },
+      "01d4d4b0-2c73-46eb-b459-b7d2d885b90f" : {
+        "id" : "01d4d4b0-2c73-46eb-b459-b7d2d885b90f",
+        "placement" : 2,
+        "player" : "002b5dfb-5176-4dc2-b869-e44fb6acf593",
+        "prize" : "1 chest, 1 backpack"
+      },
+      "02fa5175-c667-45d2-b780-68196b1c8986" : {
+        "id" : "02fa5175-c667-45d2-b780-68196b1c8986",
+        "placement" : 2,
+        "player" : "1087aaec-7a2a-46b2-afea-abf3ac305bac",
+        "prize" : "300 RUB (donated it to tournament organizers)"
+      },
+      "037c5582-ad28-45c8-b0ed-388e94ea093a" : {
+        "id" : "037c5582-ad28-45c8-b0ed-388e94ea093a",
+        "placement" : 3,
+        "player" : "48d763e8-df8b-4817-b3d5-848d108d2949",
+        "prize" : "1 chest, 1 backpack"
+      },
+      "03c5b629-6b36-40ed-9920-037e2290067f" : {
+        "id" : "03c5b629-6b36-40ed-9920-037e2290067f",
+        "placement" : 3,
+        "player" : "040e7c2a-8eff-4253-9772-a336a4131e47",
+        "prize" : "500 RUB"
+      },
+      "0415e0a9-f41b-4984-bb30-4b1b804fbfed" : {
+        "id" : "0415e0a9-f41b-4984-bb30-4b1b804fbfed",
+        "placement" : 2,
+        "player" : "899b2918-bf40-4172-a3a0-9ab4ac78432b",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "050bba8c-54a0-4cc6-9f64-08a333d849ca" : {
+        "id" : "050bba8c-54a0-4cc6-9f64-08a333d849ca",
+        "placement" : 3,
+        "player" : "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "054411f6-08b3-4d7b-869c-d82135f75c90" : {
+        "id" : "054411f6-08b3-4d7b-869c-d82135f75c90",
+        "placement" : 3,
+        "player" : "d7c31ca5-223a-42b6-84d7-109ed10e0e66",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "07dc0537-fbe9-4ad6-be23-84b6ef8fef64" : {
+        "id" : "07dc0537-fbe9-4ad6-be23-84b6ef8fef64",
+        "placement" : 3,
+        "player" : "5b2792cf-1b5f-4bc4-a487-72e4fd4b8508"
+      },
+      "08b2585d-690f-4443-966f-592268b19acf" : {
+        "id" : "08b2585d-690f-4443-966f-592268b19acf",
+        "placement" : 1,
+        "player" : "a427a4f6-c680-4e69-b10a-c22b94ef1180"
+      },
+      "0a8f7648-ca80-40cd-b2f3-62fcd6000fe6" : {
+        "id" : "0a8f7648-ca80-40cd-b2f3-62fcd6000fe6",
+        "placement" : 2,
+        "player" : "56313080-2901-4384-b51e-5c7e2060fb95",
+        "prize" : "150 RUB"
+      },
+      "0e61f14d-3289-4edc-bd50-021b3358ba5a" : {
+        "id" : "0e61f14d-3289-4edc-bd50-021b3358ba5a",
+        "placement" : 1,
+        "player" : "9786daba-65b6-42f0-a2f2-6a89c28a9930",
+        "prize" : "600 RUB"
+      },
+      "10201330-3b2b-4d66-aeae-57ac80712748" : {
+        "id" : "10201330-3b2b-4d66-aeae-57ac80712748",
+        "placement" : 1,
+        "player" : "7448498a-bd1b-4709-8964-bcf458bff4fe",
+        "prize" : "600 RUB"
+      },
+      "138d4afd-0363-487b-9abc-13ca49ed715a" : {
+        "id" : "138d4afd-0363-487b-9abc-13ca49ed715a",
+        "placement" : 3,
+        "player" : "58a5c774-8df4-46b5-aca3-0891c4c85e39",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "13a73cbe-11ae-4b89-9e66-becf60543906" : {
+        "id" : "13a73cbe-11ae-4b89-9e66-becf60543906",
+        "placement" : 1,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "600 RUB"
+      },
+      "14bf20ae-a87a-4af8-aef2-2a266c91bf6a" : {
+        "id" : "14bf20ae-a87a-4af8-aef2-2a266c91bf6a",
+        "placement" : 1,
+        "player" : "f62b9fb2-9a3c-4d99-98a1-b1baee71d472",
+        "prize" : "Logitech G403"
+      },
+      "187d8f83-ce24-470b-b74f-08a996015458" : {
+        "id" : "187d8f83-ce24-470b-b74f-08a996015458",
+        "placement" : 2,
+        "player" : "a427a4f6-c680-4e69-b10a-c22b94ef1180",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "1b1aec54-9bc6-4f58-b8bf-1bc676ef1320" : {
+        "id" : "1b1aec54-9bc6-4f58-b8bf-1bc676ef1320",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "10 EUR Steam card"
+      },
+      "1d6356fc-3af3-4476-92bc-748562d6f534" : {
+        "id" : "1d6356fc-3af3-4476-92bc-748562d6f534",
+        "placement" : 3,
+        "player" : "1c0a0f39-4af8-4828-a229-64ea310c62f8"
+      },
+      "1d81c758-8baf-40f8-ba50-c7d4e2f82e08" : {
+        "id" : "1d81c758-8baf-40f8-ba50-c7d4e2f82e08",
+        "placement" : 3,
+        "player" : "66a76ecb-d5ff-421d-bf70-ca9361d0e070",
+        "prize" : "50 RUB"
+      },
+      "1e0be01d-03dd-4dd6-bf1f-23eb1f953530" : {
+        "id" : "1e0be01d-03dd-4dd6-bf1f-23eb1f953530",
+        "placement" : 3,
+        "player" : "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef",
+        "prize" : "500 RUB"
+      },
+      "1f2a7718-9cc6-4295-8441-5d6e33d5ae62" : {
+        "id" : "1f2a7718-9cc6-4295-8441-5d6e33d5ae62",
+        "placement" : 1,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "1f8e6c4c-bf47-49c4-9d7d-a39757d6fa85" : {
+        "id" : "1f8e6c4c-bf47-49c4-9d7d-a39757d6fa85",
+        "placement" : 3,
+        "player" : "d060ab0a-a316-4eaf-8854-ab636c1ddfa1",
+        "prize" : "300 RUB Steam card, 1 chest"
+      },
+      "215bc88c-8aaa-4094-9b2e-ae9cdab17e8e" : {
+        "id" : "215bc88c-8aaa-4094-9b2e-ae9cdab17e8e",
+        "placement" : 3,
+        "player" : "3a73326c-3ab5-44e8-a1c4-2ab3a6e46bc7",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "23899ef9-979e-47fa-8da6-13990b9c3d64" : {
+        "id" : "23899ef9-979e-47fa-8da6-13990b9c3d64",
+        "placement" : 2,
+        "player" : "a5b3b295-b6c1-412e-bfa0-20c9a96776bc",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "253c2361-e37c-4619-bf6f-5449b93df7eb" : {
+        "id" : "253c2361-e37c-4619-bf6f-5449b93df7eb",
+        "placement" : 1,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "1000 RUB, 1 chest"
+      },
+      "25b6f3c9-97db-462b-97ca-73e592a73888" : {
+        "id" : "25b6f3c9-97db-462b-97ca-73e592a73888",
+        "placement" : 3,
+        "player" : "f62b9fb2-9a3c-4d99-98a1-b1baee71d472",
+        "prize" : "150 RUB"
+      },
+      "27138e1a-b4db-4886-b8be-679b857cb73f" : {
+        "id" : "27138e1a-b4db-4886-b8be-679b857cb73f",
+        "placement" : 3,
+        "player" : "430a5683-7438-4301-bb7d-a707b69d9cd1"
+      },
+      "2784a713-c656-4338-bdcb-7ec612aa924e" : {
+        "id" : "2784a713-c656-4338-bdcb-7ec612aa924e",
+        "placement" : 3,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : "250 RUB"
+      },
+      "27ed8db7-a63c-41ec-a178-da7d8acbc3b9" : {
+        "id" : "27ed8db7-a63c-41ec-a178-da7d8acbc3b9",
+        "placement" : 1,
+        "player" : "708fba86-8e5e-4ab6-8bdf-12e33d9dc77f",
+        "prize" : "2 chests, 2 backpacks"
+      },
+      "29699f57-4bb8-4b91-92eb-65c82fbcfe07" : {
+        "id" : "29699f57-4bb8-4b91-92eb-65c82fbcfe07",
+        "placement" : 3,
+        "player" : "a89cb6ea-28d3-403b-b5eb-3c7ef8640668",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "298f9804-75b0-48d8-969e-63d31abd66c8" : {
+        "id" : "298f9804-75b0-48d8-969e-63d31abd66c8",
+        "placement" : 2,
+        "player" : "bf777442-d517-4172-8836-edb6ead08c16"
+      },
+      "2b323d9d-2e32-48c6-a9a1-a6045baaa53f" : {
+        "id" : "2b323d9d-2e32-48c6-a9a1-a6045baaa53f",
+        "placement" : 2,
+        "player" : "002b5dfb-5176-4dc2-b869-e44fb6acf593",
+        "prize" : "1 chest, 1 backpack"
+      },
+      "2fc78554-5472-4ee1-b5ef-5034bc9e8f3c" : {
+        "id" : "2fc78554-5472-4ee1-b5ef-5034bc9e8f3c",
+        "placement" : 2,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : "500 RUB, 1 chest"
+      },
+      "2fd8b2dd-9d44-4889-b44c-97081e8390bd" : {
+        "id" : "2fd8b2dd-9d44-4889-b44c-97081e8390bd",
+        "placement" : 1,
+        "player" : "9e66a6d2-7907-4be3-a1db-9896dd8048b6",
+        "prize" : "150 RUB"
+      },
+      "31bc6b48-8132-45a1-9b0c-148913a7f920" : {
+        "id" : "31bc6b48-8132-45a1-9b0c-148913a7f920",
+        "placement" : 2,
+        "player" : "6630e414-3f99-4296-9eab-f116e3d0cea9",
+        "prize" : "Quake t-shirt"
+      },
+      "32304261-763b-42f1-84de-7b60d3746157" : {
+        "id" : "32304261-763b-42f1-84de-7b60d3746157",
+        "placement" : 2,
+        "player" : "f6dfc141-3607-471d-9b25-0d188c6bf429"
+      },
+      "33cabe82-56ae-445a-97be-bfd847c2b279" : {
+        "id" : "33cabe82-56ae-445a-97be-bfd847c2b279",
+        "placement" : 1,
+        "player" : "dce8ff3f-7b93-4cf3-9cc6-34e45300d208",
+        "prize" : "1000 RUB"
+      },
+      "3466fe35-b103-473a-8100-c35dee2e2edc" : {
+        "id" : "3466fe35-b103-473a-8100-c35dee2e2edc",
+        "placement" : 1,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "500 RUB (donated it back to prize fund)"
+      },
+      "36e83007-9266-4b7d-93ce-5ad96de47bc3" : {
+        "id" : "36e83007-9266-4b7d-93ce-5ad96de47bc3",
+        "placement" : 2,
+        "player" : "7448498a-bd1b-4709-8964-bcf458bff4fe",
+        "prize" : "500 RUB, 1 chest + 1 backpack"
+      },
+      "38f9802a-6639-4cf4-a6a1-fee2cd754c94" : {
+        "id" : "38f9802a-6639-4cf4-a6a1-fee2cd754c94",
+        "placement" : 2,
+        "player" : "c21de8b5-0fb4-45a6-a416-0ce194ab7fc3",
+        "prize" : "100 RUB"
+      },
+      "3b903ed8-d5bc-4baf-aff7-2f9432c4d914" : {
+        "id" : "3b903ed8-d5bc-4baf-aff7-2f9432c4d914",
+        "placement" : 2,
+        "player" : "0255799d-2de4-4277-8283-af77c682063a",
+        "prize" : "300 RUB Steam gift card"
+      },
+      "3cd34388-4b2a-4f94-82c5-30fdf1c3fe6e" : {
+        "id" : "3cd34388-4b2a-4f94-82c5-30fdf1c3fe6e",
+        "placement" : 1,
+        "player" : "8859dfc4-b4b2-4f17-82eb-dc53e13af3d2",
+        "prize" : "600 RUB"
+      },
+      "3ea72881-f04a-4532-b583-91fab6009c31" : {
+        "id" : "3ea72881-f04a-4532-b583-91fab6009c31",
+        "placement" : 3,
+        "player" : "e4d108e4-ac10-4091-805a-e9ed3f17d34a",
+        "prize" : "250 RUB (donated it back to prize fund), 1 chest + 1 backpack"
+      },
+      "3f8166e7-c43c-49d4-9fa4-5dc6cd78af7c" : {
+        "id" : "3f8166e7-c43c-49d4-9fa4-5dc6cd78af7c",
+        "placement" : 2,
+        "player" : "4f22581d-d0c8-4e98-947f-8f365507a624",
+        "prize" : "150 RUB Steam card"
+      },
+      "43170043-d7a1-4889-9570-e18992e66e7d" : {
+        "id" : "43170043-d7a1-4889-9570-e18992e66e7d",
+        "placement" : 3,
+        "player" : "7edbe045-82e5-4647-a658-660ca8eeeba7"
+      },
+      "43905a54-e17c-4a60-89fa-5e529b51ff03" : {
+        "id" : "43905a54-e17c-4a60-89fa-5e529b51ff03",
+        "placement" : 3,
+        "player" : "bc0f53a9-f955-4269-a713-59ba730f92c7"
+      },
+      "47faf987-3dc1-4295-9aa8-c09e72868117" : {
+        "id" : "47faf987-3dc1-4295-9aa8-c09e72868117",
+        "placement" : 3,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "4a65de31-47c3-447b-90d2-137528666d7f" : {
+        "id" : "4a65de31-47c3-447b-90d2-137528666d7f",
+        "placement" : 3,
+        "player" : "53789b9a-e90d-438e-91f7-3d33426fef71",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "4b2878d4-a96f-4eed-9073-538a5c5f9ec8" : {
+        "id" : "4b2878d4-a96f-4eed-9073-538a5c5f9ec8",
+        "placement" : 3,
+        "player" : "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "4bb269d5-4cca-40c2-8504-3d663cf324b5" : {
+        "id" : "4bb269d5-4cca-40c2-8504-3d663cf324b5",
+        "placement" : 2,
+        "player" : "d79a3d3b-420f-4444-ab98-2ec1a0df895c",
+        "prize" : "1000 RUB"
+      },
+      "4bfda6c3-cffa-4221-bfb5-686493ff4777" : {
+        "id" : "4bfda6c3-cffa-4221-bfb5-686493ff4777",
+        "placement" : 2,
+        "player" : "672c9b7e-f633-4116-a90c-aec345297f1d"
+      },
+      "4c7b05db-f091-484e-8c0c-ea9943c58199" : {
+        "id" : "4c7b05db-f091-484e-8c0c-ea9943c58199",
+        "placement" : 1,
+        "player" : "e78deaac-3b32-4901-a71c-1042f6317f51",
+        "prize" : "10 EUR Steam card, 1 chest + 1 backpack"
+      },
+      "4ded04f7-5a52-41a9-8b1d-d1e0e44caf3c" : {
+        "id" : "4ded04f7-5a52-41a9-8b1d-d1e0e44caf3c",
+        "placement" : 2,
+        "player" : "a89cb6ea-28d3-403b-b5eb-3c7ef8640668",
+        "prize" : "500 RUB"
+      },
+      "4e042da2-820b-4471-882c-30ff3ba089c7" : {
+        "id" : "4e042da2-820b-4471-882c-30ff3ba089c7",
+        "placement" : 2,
+        "player" : "683ec565-db94-472b-a774-e075143938a2"
+      },
+      "4e9543bd-20b3-499b-9df1-799caf720a87" : {
+        "id" : "4e9543bd-20b3-499b-9df1-799caf720a87",
+        "placement" : 2,
+        "player" : "17166414-97fb-4434-8996-0b56ca6cb3c1",
+        "prize" : "300 RUB"
+      },
+      "5019520c-7126-4734-bf2f-efe99a87ad3a" : {
+        "id" : "5019520c-7126-4734-bf2f-efe99a87ad3a",
+        "placement" : 2,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "300 RUB, 1 chest + 1 backpack"
+      },
+      "50277593-4d47-4722-9d2a-f9333430e39c" : {
+        "id" : "50277593-4d47-4722-9d2a-f9333430e39c",
+        "placement" : 3,
+        "player" : "6e1e5808-eac9-46f3-b38d-1dcaf1d40677",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "5133f964-a006-46d4-afab-6d59a9e8cea2" : {
+        "id" : "5133f964-a006-46d4-afab-6d59a9e8cea2",
+        "placement" : 2,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "10 euro Steam card"
+      },
+      "535e9d04-05ed-43f5-af62-a54cca01e9b4" : {
+        "id" : "535e9d04-05ed-43f5-af62-a54cca01e9b4",
+        "placement" : 1,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c",
+        "prize" : "Quake T-shirt"
+      },
+      "53ec95c2-8592-4d29-880a-629077f8e52f" : {
+        "id" : "53ec95c2-8592-4d29-880a-629077f8e52f",
+        "placement" : 1,
+        "player" : "6630e414-3f99-4296-9eab-f116e3d0cea9",
+        "prize" : "300 RUB (donated it back to prize fund)"
+      },
+      "54e01bd5-4fae-41e9-92ec-29d1186da508" : {
+        "id" : "54e01bd5-4fae-41e9-92ec-29d1186da508",
+        "placement" : 3,
+        "player" : "5dea55a2-3ddf-4e41-a8e5-368d5637aa0c",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "5520c992-d095-4e9e-aff3-34707474d5fe" : {
+        "id" : "5520c992-d095-4e9e-aff3-34707474d5fe",
+        "placement" : 2,
+        "player" : "bc0f53a9-f955-4269-a713-59ba730f92c7",
+        "prize" : "300 RUB"
+      },
+      "5591e528-08a9-4cb1-800a-eb9683474f0e" : {
+        "id" : "5591e528-08a9-4cb1-800a-eb9683474f0e",
+        "placement" : 3,
+        "player" : "899b2918-bf40-4172-a3a0-9ab4ac78432b",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "562a4d84-7e63-40d6-8106-bf839b0cccf4" : {
+        "id" : "562a4d84-7e63-40d6-8106-bf839b0cccf4",
+        "placement" : 2,
+        "player" : "0255799d-2de4-4277-8283-af77c682063a",
+        "prize" : "600 RUB (donated to GedG stream)"
+      },
+      "584fa079-bbeb-4cba-8d35-60f074874927" : {
+        "id" : "584fa079-bbeb-4cba-8d35-60f074874927",
+        "placement" : 3,
+        "player" : "683ec565-db94-472b-a774-e075143938a2",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "5a62eece-8b12-479e-abb9-140efbb3f512" : {
+        "id" : "5a62eece-8b12-479e-abb9-140efbb3f512",
+        "placement" : 3,
+        "player" : "76855f3f-2a6d-48cb-befd-10476b608132",
+        "prize" : "300 RUB Steam card, 1 backpack"
+      },
+      "5a8965aa-ed25-45d6-920f-0add3171bee8" : {
+        "id" : "5a8965aa-ed25-45d6-920f-0add3171bee8",
+        "placement" : 2,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "100 RUB"
+      },
+      "5aa5e35b-4546-4917-870b-7653ded2df42" : {
+        "id" : "5aa5e35b-4546-4917-870b-7653ded2df42",
+        "placement" : 2,
+        "player" : "be2ad6bb-5ed8-44ca-a531-5b52df8affee",
+        "prize" : "150 RUB Steam card"
+      },
+      "5decb0d8-a306-48a1-89a3-e4b8f5a278fd" : {
+        "id" : "5decb0d8-a306-48a1-89a3-e4b8f5a278fd",
+        "placement" : 3,
+        "player" : "f3076112-b652-498a-9cb9-bc9ca66fc4f2",
+        "prize" : "1 chest, 1 backpack"
+      },
+      "5f6a8919-a668-4f07-b85e-623669e8bc6e" : {
+        "id" : "5f6a8919-a668-4f07-b85e-623669e8bc6e",
+        "placement" : 1,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c"
+      },
+      "5fcd2f79-6b1e-4ebb-9780-e386b7feb91a" : {
+        "id" : "5fcd2f79-6b1e-4ebb-9780-e386b7feb91a",
+        "placement" : 2,
+        "player" : "647b18e7-e8fb-4612-a67d-d52cc57a1e6d",
+        "prize" : "4 chests + 4 backpacks"
+      },
+      "60c96ea8-0a6b-4f31-b649-fe0ed4930cc9" : {
+        "id" : "60c96ea8-0a6b-4f31-b649-fe0ed4930cc9",
+        "placement" : 2,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : ""
+      },
+      "6155ba0a-86af-4799-8892-5d66e2f615f3" : {
+        "id" : "6155ba0a-86af-4799-8892-5d66e2f615f3",
+        "placement" : 3,
+        "player" : "2202e4d9-2ef6-4f62-a91d-5557f56e4d7a",
+        "prize" : "250 RUB"
+      },
+      "63520278-8f78-4368-9194-7e878e044787" : {
+        "id" : "63520278-8f78-4368-9194-7e878e044787",
+        "placement" : 1,
+        "player" : "a7079e06-68e4-4570-8803-ebc7c477854f",
+        "prize" : "600 RUB (donated it back to prize fund)"
+      },
+      "64672947-07ac-43a5-855e-96f512c2c84b" : {
+        "id" : "64672947-07ac-43a5-855e-96f512c2c84b",
+        "placement" : 2,
+        "player" : "fa1c0c66-f878-49b2-bf2f-81e38b0e7bef",
+        "prize" : "500 RUB"
+      },
+      "64868ace-3b42-44f3-b10b-40fa7fdb2dfb" : {
+        "id" : "64868ace-3b42-44f3-b10b-40fa7fdb2dfb",
+        "placement" : 2,
+        "player" : "580f7e38-9f23-423d-ad46-8cafe8cf5ffd",
+        "prize" : "300 RUB"
+      },
+      "649c8876-ed8f-4cdc-b122-45db250fccf3" : {
+        "id" : "649c8876-ed8f-4cdc-b122-45db250fccf3",
+        "placement" : 1,
+        "player" : "2af64430-7442-4755-93d6-d335717e155a",
+        "prize" : "150 RUB"
+      },
+      "652961f0-2562-4c4e-aafb-bd076c796c31" : {
+        "id" : "652961f0-2562-4c4e-aafb-bd076c796c31",
+        "placement" : 1,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "Logitech G402"
+      },
+      "65451acd-c899-4cef-9ce9-3f0994aad675" : {
+        "id" : "65451acd-c899-4cef-9ce9-3f0994aad675",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "600 RUB"
+      },
+      "6560ac69-9232-42fc-9bce-fbb6c5f4a370" : {
+        "id" : "6560ac69-9232-42fc-9bce-fbb6c5f4a370",
+        "placement" : 2,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "1000 RUB"
+      },
+      "65aa9a24-da75-4e87-b32e-5782c443a11b" : {
+        "id" : "65aa9a24-da75-4e87-b32e-5782c443a11b",
+        "placement" : 2,
+        "player" : "f5428993-2ebb-4235-91ec-fd9a41891843",
+        "prize" : "750 RUB"
+      },
+      "6994c1cf-dff5-456c-911c-91c2b12f8e6f" : {
+        "id" : "6994c1cf-dff5-456c-911c-91c2b12f8e6f",
+        "placement" : 3,
+        "player" : "17166414-97fb-4434-8996-0b56ca6cb3c1",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "69de27b8-d6f6-4e69-8da6-bfb11672017c" : {
+        "id" : "69de27b8-d6f6-4e69-8da6-bfb11672017c",
+        "placement" : 1,
+        "player" : "215acebd-7e51-48e3-8e47-520ca8e60772",
+        "prize" : "1000 RUB (donated it back to prize fund), 1 chest"
+      },
+      "6c306551-c5df-473c-9d64-6338b94087dc" : {
+        "id" : "6c306551-c5df-473c-9d64-6338b94087dc",
+        "placement" : 1,
+        "player" : "0255799d-2de4-4277-8283-af77c682063a",
+        "prize" : "2x 300 RUB Steam cards"
+      },
+      "6c733f21-a44e-476f-aaba-a8b5f1bba287" : {
+        "id" : "6c733f21-a44e-476f-aaba-a8b5f1bba287",
+        "placement" : 3,
+        "player" : "a89cb6ea-28d3-403b-b5eb-3c7ef8640668",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "6c87d8ed-3125-4bfa-8291-cb32a84ad82d" : {
+        "id" : "6c87d8ed-3125-4bfa-8291-cb32a84ad82d",
+        "placement" : 1,
+        "player" : "79976a3b-3345-48d9-b98c-1a63c4d7921b",
+        "prize" : "Razer DeathAdder Elite"
+      },
+      "6db2cc18-203e-498d-a307-84d53e0ef460" : {
+        "id" : "6db2cc18-203e-498d-a307-84d53e0ef460",
+        "placement" : 1,
+        "player" : "7448498a-bd1b-4709-8964-bcf458bff4fe",
+        "prize" : "1000 RUB"
+      },
+      "707e633e-5e1d-4703-8203-83a7991b27df" : {
+        "id" : "707e633e-5e1d-4703-8203-83a7991b27df",
+        "placement" : 3,
+        "player" : "419c29bb-b2e2-4f11-ad09-3d9af88d3e03",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "711a1329-d698-4ed8-a6b1-02b8ad6f0321" : {
+        "id" : "711a1329-d698-4ed8-a6b1-02b8ad6f0321",
+        "placement" : 1,
+        "player" : "8ae7059e-15a6-47fb-bd20-0e32cedf99d1"
+      },
+      "74de9694-8ef6-45a6-a60e-9197534a5e39" : {
+        "id" : "74de9694-8ef6-45a6-a60e-9197534a5e39",
+        "placement" : 2,
+        "player" : "0411cb22-e23d-4970-8ff4-2d3cde1542f7",
+        "prize" : "100 RUB"
+      },
+      "7a0a4c02-2207-4a5b-bae4-e96110d79971" : {
+        "id" : "7a0a4c02-2207-4a5b-bae4-e96110d79971",
+        "placement" : 2,
+        "player" : "1da48627-e1b5-4586-8b87-3fb6a8ba85b3",
+        "prize" : "500 RUB, 1 backpack"
+      },
+      "7c9a2bd5-0856-4c62-b51f-bc65bb199fac" : {
+        "id" : "7c9a2bd5-0856-4c62-b51f-bc65bb199fac",
+        "placement" : 2,
+        "player" : "d7c31ca5-223a-42b6-84d7-109ed10e0e66",
+        "prize" : "150 RUB Steam card, 1 chest"
+      },
+      "7caf801e-8094-4aab-b311-e7dc3b048d8d" : {
+        "id" : "7caf801e-8094-4aab-b311-e7dc3b048d8d",
+        "placement" : 2,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c",
+        "prize" : "300 RUB (donated it back to prize fund)"
+      },
+      "7cbfa253-8e49-4f61-8470-508c530e215e" : {
+        "id" : "7cbfa253-8e49-4f61-8470-508c530e215e",
+        "placement" : 3,
+        "player" : "e78deaac-3b32-4901-a71c-1042f6317f51",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "7d0a1cb5-d361-47d7-bb60-17e2fdf92d80" : {
+        "id" : "7d0a1cb5-d361-47d7-bb60-17e2fdf92d80",
+        "placement" : 1,
+        "player" : "0411cb22-e23d-4970-8ff4-2d3cde1542f7",
+        "prize" : "300 RUB"
+      },
+      "7d0d9b82-d72a-4116-8804-607828817a4c" : {
+        "id" : "7d0d9b82-d72a-4116-8804-607828817a4c",
+        "placement" : 2,
+        "player" : "62fd12b3-1f89-4097-9633-6548bce0ca8c",
+        "prize" : "100 RUB (donated it back to prize fund)"
+      },
+      "7d108169-bf16-4891-a7b1-89d330232b0d" : {
+        "id" : "7d108169-bf16-4891-a7b1-89d330232b0d",
+        "placement" : 2,
+        "player" : "bf777442-d517-4172-8836-edb6ead08c16",
+        "prize" : "300 RUB (donated it back to prize fund)"
+      },
+      "7e0cd9c3-8fb7-4e55-9d2c-2a5e25ae5d97" : {
+        "id" : "7e0cd9c3-8fb7-4e55-9d2c-2a5e25ae5d97",
+        "placement" : 3,
+        "player" : "e4d108e4-ac10-4091-805a-e9ed3f17d34a",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "7f2cf75f-5156-4029-808e-b8c87330ecb9" : {
+        "id" : "7f2cf75f-5156-4029-808e-b8c87330ecb9",
+        "placement" : 1,
+        "player" : "f3f0da1b-a474-4ead-a227-dacbfe35c8ea",
+        "prize" : "750 RUB Steam card (donated it back to prize fund), 1 backpack"
+      },
+      "80bfe44a-b2be-43ad-8ee8-88b41024a76b" : {
+        "id" : "80bfe44a-b2be-43ad-8ee8-88b41024a76b",
+        "placement" : 2,
+        "player" : "62fd12b3-1f89-4097-9633-6548bce0ca8c",
+        "prize" : "300 RUB"
+      },
+      "811d2e58-8faa-475d-bfc1-b8fae3773ffe" : {
+        "id" : "811d2e58-8faa-475d-bfc1-b8fae3773ffe",
+        "placement" : 2,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "600 RUB"
+      },
+      "86d12b31-e647-4666-aa47-8920bb9ebe2f" : {
+        "id" : "86d12b31-e647-4666-aa47-8920bb9ebe2f",
+        "placement" : 2,
+        "player" : "a7764a37-14c1-4508-9a6c-4d867dfd4358"
+      },
+      "8e70f9e2-0568-4a3a-8a98-c1224920f2d7" : {
+        "id" : "8e70f9e2-0568-4a3a-8a98-c1224920f2d7",
+        "placement" : 1,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "300 RUB"
+      },
+      "8e8e3a95-6a34-466e-a2f3-3bc78774f213" : {
+        "id" : "8e8e3a95-6a34-466e-a2f3-3bc78774f213",
+        "placement" : 1,
+        "player" : "5b2792cf-1b5f-4bc4-a487-72e4fd4b8508",
+        "prize" : "10 EUR Steam card"
+      },
+      "9018da9c-0c6c-4e9f-af7d-a9020471f6bf" : {
+        "id" : "9018da9c-0c6c-4e9f-af7d-a9020471f6bf",
+        "placement" : 1,
+        "player" : "94a036a6-0372-4961-9140-568493c8a78d",
+        "prize" : "200 RUB"
+      },
+      "90bdea81-5c6d-43d1-aed4-ed475fa24dec" : {
+        "id" : "90bdea81-5c6d-43d1-aed4-ed475fa24dec",
+        "placement" : 3,
+        "player" : "8611b9ab-abd3-4779-99fb-6276943e736d"
+      },
+      "94a700aa-2606-483d-8455-e7b21124e0a0" : {
+        "id" : "94a700aa-2606-483d-8455-e7b21124e0a0",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "200 RUB"
+      },
+      "9663c505-5aff-474f-a70c-b89459c6208f" : {
+        "id" : "9663c505-5aff-474f-a70c-b89459c6208f",
+        "placement" : 1,
+        "player" : "4f262d1d-6987-445a-b51e-e2afa1df3a98",
+        "prize" : "300 RUB"
+      },
+      "96b138e6-cbfa-44c1-bbd0-cbdcde389870" : {
+        "id" : "96b138e6-cbfa-44c1-bbd0-cbdcde389870",
+        "placement" : 1,
+        "player" : "56313080-2901-4384-b51e-5c7e2060fb95",
+        "prize" : "40 PLN Steam card"
+      },
+      "9898e757-f02b-4178-99fd-02e893213f5b" : {
+        "id" : "9898e757-f02b-4178-99fd-02e893213f5b",
+        "placement" : 3,
+        "player" : "eed47b3b-1a83-4d54-96d0-ea56f66c327d",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "9a79ef96-64a7-4ffb-b4ca-9099d83a25a7" : {
+        "id" : "9a79ef96-64a7-4ffb-b4ca-9099d83a25a7",
+        "placement" : 3,
+        "player" : "00ba858c-e8a7-479b-8dbf-36581c0b2b38"
+      },
+      "9bdc1f00-c079-45df-92f1-f46988fc2b6b" : {
+        "id" : "9bdc1f00-c079-45df-92f1-f46988fc2b6b",
+        "placement" : 1,
+        "player" : "76855f3f-2a6d-48cb-befd-10476b608132",
+        "prize" : "300 RUB Steam card"
+      },
+      "9c6848c3-d133-473a-8813-ab59d6266d11" : {
+        "id" : "9c6848c3-d133-473a-8813-ab59d6266d11",
+        "placement" : 3,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "250 RUB, 1 backpack"
+      },
+      "9d4aa3d2-4562-43ab-9e0a-55bb36d1c7ce" : {
+        "id" : "9d4aa3d2-4562-43ab-9e0a-55bb36d1c7ce",
+        "placement" : 2,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597"
+      },
+      "9da32eb9-935b-4794-b88a-9a1fa3e37784" : {
+        "id" : "9da32eb9-935b-4794-b88a-9a1fa3e37784",
+        "placement" : 3,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c"
+      },
+      "9e2a07fc-c635-404b-8861-451273960a94" : {
+        "id" : "9e2a07fc-c635-404b-8861-451273960a94",
+        "placement" : 2,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : "100 RUB"
+      },
+      "9e39bfef-6144-4fd7-87df-3534fc6be110" : {
+        "id" : "9e39bfef-6144-4fd7-87df-3534fc6be110",
+        "placement" : 2,
+        "player" : "2612bffc-70ed-4c13-9920-a61c285440b7",
+        "prize" : "100 RUB (donated it back to prize fund)"
+      },
+      "9e7a452d-3d32-4bae-bb40-4f0ee93752fd" : {
+        "id" : "9e7a452d-3d32-4bae-bb40-4f0ee93752fd",
+        "placement" : 3,
+        "player" : "da41030b-d85e-4b72-b5be-b360248f695b",
+        "prize" : "1 chest, 1 backpack"
+      },
+      "9e8ab90b-a5cf-4f4d-ba0c-b8a239bc7486" : {
+        "id" : "9e8ab90b-a5cf-4f4d-ba0c-b8a239bc7486",
+        "placement" : 2,
+        "player" : "55a18c27-0e8c-416c-821a-725917519ff0",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "9fae1b96-74d0-4301-a3de-eaa48e3b05dc" : {
+        "id" : "9fae1b96-74d0-4301-a3de-eaa48e3b05dc",
+        "placement" : 1,
+        "player" : "a5b3b295-b6c1-412e-bfa0-20c9a96776bc",
+        "prize" : "40 PLN (donated it back to prize fund)"
+      },
+      "a1ff44f5-5452-46c8-a9be-39e62b069b1e" : {
+        "id" : "a1ff44f5-5452-46c8-a9be-39e62b069b1e",
+        "placement" : 1,
+        "player" : "608fb38c-4ad1-43ca-97c1-60412302fba2",
+        "prize" : "1000 RUB"
+      },
+      "a395b4c8-ceb4-4127-abd6-b281778b57d3" : {
+        "id" : "a395b4c8-ceb4-4127-abd6-b281778b57d3",
+        "placement" : 3,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "150 RUB"
+      },
+      "a463d48b-a81b-4039-bb34-212e58d01d28" : {
+        "id" : "a463d48b-a81b-4039-bb34-212e58d01d28",
+        "placement" : 3,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : "300 RUB"
+      },
+      "a4709b39-244d-47e0-8152-5d0ba23fbb5c" : {
+        "id" : "a4709b39-244d-47e0-8152-5d0ba23fbb5c",
+        "placement" : 2,
+        "player" : "407944c8-d889-4328-8af0-819f524fa651",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "a87ba956-7d95-4ce2-809d-100ecdf8a349" : {
+        "id" : "a87ba956-7d95-4ce2-809d-100ecdf8a349",
+        "placement" : 3,
+        "player" : "580f7e38-9f23-423d-ad46-8cafe8cf5ffd",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "aa80702a-34f8-4605-a759-4f6c16ef89b2" : {
+        "id" : "aa80702a-34f8-4605-a759-4f6c16ef89b2",
+        "placement" : 1,
+        "player" : "f62b9fb2-9a3c-4d99-98a1-b1baee71d472",
+        "prize" : "600 RUB"
+      },
+      "ab14c370-41d5-4c5c-bd77-b4d740bac8f3" : {
+        "id" : "ab14c370-41d5-4c5c-bd77-b4d740bac8f3",
+        "placement" : 2,
+        "player" : "bf777442-d517-4172-8836-edb6ead08c16"
+      },
+      "ab24e556-5311-40fd-9beb-1d82788c0417" : {
+        "id" : "ab24e556-5311-40fd-9beb-1d82788c0417",
+        "placement" : 2,
+        "player" : "53789b9a-e90d-438e-91f7-3d33426fef71",
+        "prize" : "100 RUB"
+      },
+      "ad1ce484-d2fb-4ba9-98a2-37faf08f4058" : {
+        "id" : "ad1ce484-d2fb-4ba9-98a2-37faf08f4058",
+        "placement" : 3,
+        "player" : "ea0a5cd9-2143-4225-b012-47ed9b586a25",
+        "prize" : "250 RUB"
+      },
+      "addcc857-8d48-463b-857f-75559a5df459" : {
+        "id" : "addcc857-8d48-463b-857f-75559a5df459",
+        "placement" : 3,
+        "player" : "83c9707b-a099-4b7d-b61f-816ada81a461",
+        "prize" : "300 RUB"
+      },
+      "ae835f9b-d42a-4c2a-a722-84289320c3e7" : {
+        "id" : "ae835f9b-d42a-4c2a-a722-84289320c3e7",
+        "placement" : 1,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "900 RUB"
+      },
+      "af0bac66-cf3c-4d19-8412-aff09c2cdcc5" : {
+        "id" : "af0bac66-cf3c-4d19-8412-aff09c2cdcc5",
+        "placement" : 1,
+        "player" : "878b5df0-09c8-4b7e-9a66-8a839bc2db2a",
+        "prize" : "600 RUB, 1 chest + 1 backpack"
+      },
+      "aff6ae31-ef96-49a8-b965-68692bf435f9" : {
+        "id" : "aff6ae31-ef96-49a8-b965-68692bf435f9",
+        "placement" : 1,
+        "player" : "5b2792cf-1b5f-4bc4-a487-72e4fd4b8508",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "b121d9f6-40cd-4f8d-adcd-32ccf60a5b68" : {
+        "id" : "b121d9f6-40cd-4f8d-adcd-32ccf60a5b68",
+        "placement" : 1,
+        "player" : "237c6bcb-a951-45f3-a132-ae36cf42ea0a",
+        "prize" : "200 RUB"
+      },
+      "b1f5f735-b67b-47a8-93be-54b2c7985f84" : {
+        "id" : "b1f5f735-b67b-47a8-93be-54b2c7985f84",
+        "placement" : 1,
+        "player" : "be2ad6bb-5ed8-44ca-a531-5b52df8affee",
+        "prize" : "600 RUB (donated it back to prize fund)"
+      },
+      "b2f42658-3f34-4c4d-8943-ffaa35ab7273" : {
+        "id" : "b2f42658-3f34-4c4d-8943-ffaa35ab7273",
+        "placement" : 1,
+        "player" : "72a7c268-8f16-412d-86eb-84c3bcd67edf",
+        "prize" : "10 EUR Steam card (donated it back to prize fund), 1 chest + 1 backpack"
+      },
+      "b4e71d6f-2425-44b9-8c64-8596e48c414c" : {
+        "id" : "b4e71d6f-2425-44b9-8c64-8596e48c414c",
+        "placement" : 3,
+        "player" : "2202e4d9-2ef6-4f62-a91d-5557f56e4d7a"
+      },
+      "b55fbe92-17b6-404c-bcf4-1a83582595fd" : {
+        "id" : "b55fbe92-17b6-404c-bcf4-1a83582595fd",
+        "placement" : 3,
+        "player" : "f038cfbf-71cc-4b97-9e22-b3cedfdc2f8f",
+        "prize" : "50 RUB"
+      },
+      "b8d832c0-9de1-4368-86e7-a83305b58ead" : {
+        "id" : "b8d832c0-9de1-4368-86e7-a83305b58ead",
+        "placement" : 1,
+        "player" : "f3f0da1b-a474-4ead-a227-dacbfe35c8ea",
+        "prize" : "1000 RUB (donated it back to prize fund), 1 chest + 1 backpack"
+      },
+      "b8dafde6-8a5a-44e5-9074-2141c3990d3b" : {
+        "id" : "b8dafde6-8a5a-44e5-9074-2141c3990d3b",
+        "placement" : 3,
+        "player" : "d7c31ca5-223a-42b6-84d7-109ed10e0e66"
+      },
+      "b9387c4f-afd1-48af-be71-cc39b031804a" : {
+        "id" : "b9387c4f-afd1-48af-be71-cc39b031804a",
+        "placement" : 2,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c",
+        "prize" : "300 RUB"
+      },
+      "b94a98d8-b89f-4fc2-bc91-1a52c7a0a099" : {
+        "id" : "b94a98d8-b89f-4fc2-bc91-1a52c7a0a099",
+        "placement" : 2,
+        "player" : "72a7c268-8f16-412d-86eb-84c3bcd67edf",
+        "prize" : "150 RUB (donated it back to prize fund), 1 chest + 1 backpack"
+      },
+      "ba902b1f-b4fa-4777-92cf-fd9a1a94be7c" : {
+        "id" : "ba902b1f-b4fa-4777-92cf-fd9a1a94be7c",
+        "placement" : 1,
+        "player" : "2c5c965a-0cfb-43d1-8c6e-6e258babf919"
+      },
+      "ba9a3a91-a389-45d3-af05-d637e9f031b4" : {
+        "id" : "ba9a3a91-a389-45d3-af05-d637e9f031b4",
+        "placement" : 3,
+        "player" : "a369981e-7643-46a5-988e-c72f83c9b21b"
+      },
+      "babaa01c-7fc1-44d0-a202-e6ffde3059a8" : {
+        "id" : "babaa01c-7fc1-44d0-a202-e6ffde3059a8",
+        "placement" : 1,
+        "player" : "0d6b7f0b-7c67-4486-a049-1fe57ba9bf88",
+        "prize" : ""
+      },
+      "bc823c4c-1ca5-4ffd-ab01-5a02a3133378" : {
+        "id" : "bc823c4c-1ca5-4ffd-ab01-5a02a3133378",
+        "placement" : 3,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "150 RUB, 1 chest + 1 backpack"
+      },
+      "be931170-a941-4f39-b2c5-e4e50e216581" : {
+        "id" : "be931170-a941-4f39-b2c5-e4e50e216581",
+        "placement" : 3,
+        "player" : "6308ce8a-9599-4264-9d23-4d7827af0166"
+      },
+      "c1fe4b51-35cc-4d16-a80b-7d5de1e2d5d2" : {
+        "id" : "c1fe4b51-35cc-4d16-a80b-7d5de1e2d5d2",
+        "placement" : 3,
+        "player" : "d55a0bc7-e709-4ced-85f2-2de2ae0069aa",
+        "prize" : "2 chests + 2 backpacks"
+      },
+      "c4156a54-c5ce-4bae-877f-2b222c7e80c7" : {
+        "id" : "c4156a54-c5ce-4bae-877f-2b222c7e80c7",
+        "placement" : 1,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "Razer BlackWidow X Tournament Edition"
+      },
+      "c4382e61-25e6-4f2d-bc00-e3c701798eb6" : {
+        "id" : "c4382e61-25e6-4f2d-bc00-e3c701798eb6",
+        "placement" : 2,
+        "player" : "a5b3b295-b6c1-412e-bfa0-20c9a96776bc"
+      },
+      "c4b31017-d483-4434-b9d2-24c70a2b9630" : {
+        "id" : "c4b31017-d483-4434-b9d2-24c70a2b9630",
+        "placement" : 3,
+        "player" : "176a67c7-ea25-4eea-8925-bbee91239cd3",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "c85e344f-8fcb-4a1e-aef0-cfcd06ed9335" : {
+        "id" : "c85e344f-8fcb-4a1e-aef0-cfcd06ed9335",
+        "placement" : 2,
+        "player" : "bf777442-d517-4172-8836-edb6ead08c16",
+        "prize" : "300 RUB (donated it back to prize fund)"
+      },
+      "ccc4219a-9c42-4227-8d15-a2dbae60cddd" : {
+        "id" : "ccc4219a-9c42-4227-8d15-a2dbae60cddd",
+        "placement" : 3,
+        "player" : "3273daea-ea69-4721-a678-1ba871ef392e",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "cfaa6c65-1c7d-447b-8cb1-c3a6311c369b" : {
+        "id" : "cfaa6c65-1c7d-447b-8cb1-c3a6311c369b",
+        "placement" : 1,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "10 euro Steam card (donated it back to prize fund)"
+      },
+      "d1523493-c790-465b-9517-ab15dd31dd91" : {
+        "id" : "d1523493-c790-465b-9517-ab15dd31dd91",
+        "placement" : 3,
+        "player" : "7b5530e2-440c-403b-a49c-55a1e25d34dd"
+      },
+      "d3ad3e0d-c14f-4a76-ac4c-c80da84f6adc" : {
+        "id" : "d3ad3e0d-c14f-4a76-ac4c-c80da84f6adc",
+        "placement" : 1,
+        "player" : "e4d108e4-ac10-4091-805a-e9ed3f17d34a",
+        "prize" : "200 RUB"
+      },
+      "d3ddef7b-78ce-41f7-9772-fb4ac99df4fd" : {
+        "id" : "d3ddef7b-78ce-41f7-9772-fb4ac99df4fd",
+        "placement" : 3,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "d4fc11e7-444b-497e-9e53-e55d489efeaa" : {
+        "id" : "d4fc11e7-444b-497e-9e53-e55d489efeaa",
+        "placement" : 1,
+        "player" : "6b37f6a8-0068-4a85-b9c8-6fdcc6662771",
+        "prize" : "10 euro Steam card (donated it back to prize fund), 2 chests, 2 backpacks"
+      },
+      "d5c69e4a-5fd6-481b-91b2-47d243a6fe3b" : {
+        "id" : "d5c69e4a-5fd6-481b-91b2-47d243a6fe3b",
+        "placement" : 1,
+        "player" : "1087aaec-7a2a-46b2-afea-abf3ac305bac",
+        "prize" : " Microsoft Classic Intellimouse"
+      },
+      "d6e0a379-9ca0-49f6-9095-253a13e81cbd" : {
+        "id" : "d6e0a379-9ca0-49f6-9095-253a13e81cbd",
+        "placement" : 1,
+        "player" : "b9626916-c7e4-49e9-a3a0-eb8c4393e270",
+        "prize" : "ZOWIE FK2"
+      },
+      "d75f80c4-8e2b-441f-99fc-277f247c78b6" : {
+        "id" : "d75f80c4-8e2b-441f-99fc-277f247c78b6",
+        "placement" : 2,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b"
+      },
+      "da2291b7-1bd6-4eb7-8df3-1c7e872fe3ee" : {
+        "id" : "da2291b7-1bd6-4eb7-8df3-1c7e872fe3ee",
+        "placement" : 2,
+        "player" : "56313080-2901-4384-b51e-5c7e2060fb95",
+        "prize" : "300 RUB"
+      },
+      "dadfa90b-bc2d-4251-90df-3d7667a11a1b" : {
+        "id" : "dadfa90b-bc2d-4251-90df-3d7667a11a1b",
+        "placement" : 2,
+        "player" : "2612bffc-70ed-4c13-9920-a61c285440b7",
+        "prize" : "300 RUB (donated it to tournament organizers)"
+      },
+      "e010304d-f027-40f5-80bc-21d040623b7e" : {
+        "id" : "e010304d-f027-40f5-80bc-21d040623b7e",
+        "placement" : 2,
+        "player" : "66a76ecb-d5ff-421d-bf70-ca9361d0e070",
+        "prize" : "100 RUB"
+      },
+      "e2bd741c-d563-429a-a7a2-866a6e665e83" : {
+        "id" : "e2bd741c-d563-429a-a7a2-866a6e665e83",
+        "placement" : 1,
+        "player" : "3d733a2e-b599-470b-bdab-d2eb5e181043",
+        "prize" : ""
+      },
+      "e2f2e54c-bfcf-4834-84b5-39498496d972" : {
+        "id" : "e2f2e54c-bfcf-4834-84b5-39498496d972",
+        "placement" : 2,
+        "player" : "b9626916-c7e4-49e9-a3a0-eb8c4393e270",
+        "prize" : "150 RUB"
+      },
+      "e3e2af3a-108c-40c8-87eb-d577e122c8f8" : {
+        "id" : "e3e2af3a-108c-40c8-87eb-d577e122c8f8",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "300 RUB, 1 chest"
+      },
+      "e5cd69ae-ed4a-42d7-bfcc-b8fe50289b5f" : {
+        "id" : "e5cd69ae-ed4a-42d7-bfcc-b8fe50289b5f",
+        "placement" : 2,
+        "player" : "a796294e-dbbe-44d9-99bd-9629617d0357",
+        "prize" : "500 RUB, 1 chest"
+      },
+      "e8553164-6a5b-4600-957a-b6cc9133186c" : {
+        "id" : "e8553164-6a5b-4600-957a-b6cc9133186c",
+        "placement" : 1,
+        "player" : "5c2883b2-9e6f-4dd4-a8f5-c55f9acfde3d"
+      },
+      "e936375a-b2ee-46f9-a054-0b3b6d258304" : {
+        "id" : "e936375a-b2ee-46f9-a054-0b3b6d258304",
+        "placement" : 3,
+        "player" : "647b18e7-e8fb-4612-a67d-d52cc57a1e6d",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "eb78b4a1-cd3d-44de-920e-de7c311eced3" : {
+        "id" : "eb78b4a1-cd3d-44de-920e-de7c311eced3",
+        "placement" : 3,
+        "player" : "05d89157-4f70-4051-b68d-55c829d70e7c",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "ec6263f1-b794-45fc-9c7c-b05babb2852e" : {
+        "id" : "ec6263f1-b794-45fc-9c7c-b05babb2852e",
+        "placement" : 3,
+        "player" : "5340d9f6-eaa1-4f61-8ff1-2f83a70500fe",
+        "prize" : "150 RUB, 1 chest + 1 backpack"
+      },
+      "edf37cad-7cc7-400e-9113-4ad29790a3ae" : {
+        "id" : "edf37cad-7cc7-400e-9113-4ad29790a3ae",
+        "placement" : 2,
+        "player" : "6b9ea8d3-d6df-44be-a109-ceb1db5d0597",
+        "prize" : "150 RUB"
+      },
+      "eea1ee8d-6508-4948-90f7-30dc33e81c6e" : {
+        "id" : "eea1ee8d-6508-4948-90f7-30dc33e81c6e",
+        "placement" : 1,
+        "player" : "aee38cd8-2253-4e0d-b184-f356b81dd11b",
+        "prize" : "15 EUR Steam card"
+      },
+      "eea5fcdc-5c54-4ff4-a618-5e4baec0b09d" : {
+        "id" : "eea5fcdc-5c54-4ff4-a618-5e4baec0b09d",
+        "placement" : 1,
+        "player" : "d8a159f0-664e-4362-8627-b74fa4949d66",
+        "prize" : "Razer Goliathus Speed Terra Edition Medium"
+      },
+      "f3066015-5682-44e8-bd24-1393128a0698" : {
+        "id" : "f3066015-5682-44e8-bd24-1393128a0698",
+        "placement" : 2,
+        "player" : "580f7e38-9f23-423d-ad46-8cafe8cf5ffd",
+        "prize" : ""
+      },
+      "f3bc6a26-939e-4834-93bf-d82926dee65b" : {
+        "id" : "f3bc6a26-939e-4834-93bf-d82926dee65b",
+        "placement" : 3,
+        "player" : "580f7e38-9f23-423d-ad46-8cafe8cf5ffd",
+        "prize" : "1 chest + 1 backpack"
+      },
+      "f443e517-d6d4-4db6-9b49-fdbbdcf540c5" : {
+        "id" : "f443e517-d6d4-4db6-9b49-fdbbdcf540c5",
+        "placement" : 3,
+        "player" : "a427a4f6-c680-4e69-b10a-c22b94ef1180",
+        "prize" : "150 RUB (donated it back to prize fund)"
+      },
+      "f474d9ad-0566-4e3c-bda0-ded2a01eeaa3" : {
+        "id" : "f474d9ad-0566-4e3c-bda0-ded2a01eeaa3",
+        "placement" : 1,
+        "player" : "53789b9a-e90d-438e-91f7-3d33426fef71",
+        "prize" : "600 RUB"
+      },
+      "f79f6f86-5424-477b-8232-34a9012f669a" : {
+        "id" : "f79f6f86-5424-477b-8232-34a9012f669a",
+        "placement" : 3,
+        "player" : "79e3d8b5-b693-4828-8990-4922b0cfb700",
+        "prize" : "150 RUB"
+      },
+      "f962c1d6-43d0-48a9-906d-c040efcf9526" : {
+        "id" : "f962c1d6-43d0-48a9-906d-c040efcf9526",
+        "placement" : 3,
+        "player" : "36203134-509a-4f2d-b1ca-ae31376c4643",
+        "prize" : "1 chest"
+      },
+      "faaab8f6-a71b-476b-be58-6bdf60bf5631" : {
+        "id" : "faaab8f6-a71b-476b-be58-6bdf60bf5631",
+        "placement" : 2,
+        "player" : "0411cb22-e23d-4970-8ff4-2d3cde1542f7",
+        "prize" : "300 RUB, 1 chest + 1 backpack"
+      },
+      "fe59eaac-fd29-4f76-b20b-abaf50ea9923" : {
+        "id" : "fe59eaac-fd29-4f76-b20b-abaf50ea9923",
+        "placement" : 3,
+        "player" : "d7c31ca5-223a-42b6-84d7-109ed10e0e66"
+      },
+      "ffc9c4a3-35dd-42e0-a956-a8665d55e766" : {
+        "id" : "ffc9c4a3-35dd-42e0-a956-a8665d55e766",
+        "placement" : 1,
+        "player" : "290faf5c-8083-467a-bb4c-38335895fd34",
+        "prize" : "600 RUB"
+      }
+    },
+    "tournaments" : {
+      "027017d0-4514-4528-8a33-0a3844d1ac2f" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC14_SILVER_1350",
+        "date" : "2018-02-17",
+        "id" : "027017d0-4514-4528-8a33-0a3844d1ac2f",
+        "results" : [ "9018da9c-0c6c-4e9f-af7d-a9020471f6bf", "0a8f7648-ca80-40cd-b2f3-62fcd6000fe6", "7e0cd9c3-8fb7-4e55-9d2c-2a5e25ae5d97" ],
+        "sortIndex" : -24,
+        "title" : "Uniorz Challenge Duel Cup 14 SILVER",
+        "video" : "https://vk.com/video-139862086_456239116"
+      },
+      "085f2f57-5dec-4484-90d9-74ce5ae81706" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC11_DIAMOND_2100",
+        "date" : "2018-01-27",
+        "id" : "085f2f57-5dec-4484-90d9-74ce5ae81706",
+        "results" : [ "af0bac66-cf3c-4d19-8412-aff09c2cdcc5", "5019520c-7126-4734-bf2f-efe99a87ad3a", "ec6263f1-b794-45fc-9c7c-b05babb2852e" ],
+        "sortIndex" : -17,
+        "title" : "Uniorz Challenge Duel Cup 11 DIAMOND | feral's birthday special",
+        "video" : "https://www.youtube.com/watch?v=Wp113zs-gUo&list=PL81RL9OKZHKRVJVvjHFE1kxzV6ft99mSk"
+      },
+      "0aef0772-c74d-4c39-a77e-2b6272412450" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC16_DIAMOND_2100",
+        "date" : "2018-03-03",
+        "id" : "0aef0772-c74d-4c39-a77e-2b6272412450",
+        "results" : [ "b121d9f6-40cd-4f8d-adcd-32ccf60a5b68", "9e2a07fc-c635-404b-8861-451273960a94", "47faf987-3dc1-4295-9aa8-c09e72868117" ],
+        "sortIndex" : -33,
+        "title" : "Uniorz Challenge QC Duel Cup #16 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=ZViRbNhnkBQ&list=PL81RL9OKZHKTb0viIrHaSkbPcVIz8f4Sx"
+      },
+      "0f262e20-b680-4a06-b934-af469e59a660" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC9_MID",
+        "date" : "2018-01-06",
+        "id" : "0f262e20-b680-4a06-b934-af469e59a660",
+        "results" : [ "6c87d8ed-3125-4bfa-8291-cb32a84ad82d", "31bc6b48-8132-45a1-9b0c-148913a7f920", "2784a713-c656-4338-bdcb-7ec612aa924e" ],
+        "sortIndex" : -11,
+        "title" : "Uniorz Challenge Duel Cup 9 MID",
+        "video" : "https://www.youtube.com/watch?v=rIQ7p3c-EsA&list=PLhBZp2W3AbYpoiGtcxRp-20ZfCyltnjhM"
+      },
+      "0f368ace-de41-47ba-a002-7581c995a326" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC10_SILVER",
+        "date" : "2018-01-13",
+        "id" : "0f368ace-de41-47ba-a002-7581c995a326",
+        "results" : [ "7f2cf75f-5156-4029-808e-b8c87330ecb9", "7a0a4c02-2207-4a5b-bae4-e96110d79971", "5a62eece-8b12-479e-abb9-140efbb3f512" ],
+        "sortIndex" : -12,
+        "title" : "Uniorz Challenge Duel Cup 10 SILVER",
+        "video" : "https://www.youtube.com/watch?v=b3V2ymr1pe0"
+      },
+      "0fe907db-fa21-49ab-ab0d-e238719bab45" : {
+        "bracket" : "https://binarybeast.com/x1711052/participants#brackets",
+        "date" : "2017-11-05",
+        "id" : "0fe907db-fa21-49ab-ab0d-e238719bab45",
+        "results" : [ "babaa01c-7fc1-44d0-a202-e6ffde3059a8", "f3066015-5682-44e8-bd24-1393128a0698", "b4e71d6f-2425-44b9-8c64-8596e48c414c" ],
+        "sortIndex" : -1,
+        "title" : "Uniorz Challenge Duel Cup 1",
+        "video" : "https://www.youtube.com/watch?v=QidY1LWdk2s&list=PLhBZp2W3AbYqBQK8H1nYv0oioDZ3YztRL"
+      },
+      "1723f408-77c1-4be2-89e1-6a3feb2172a9" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC12_DIAMOND_2100",
+        "date" : "2018-02-03",
+        "id" : "1723f408-77c1-4be2-89e1-6a3feb2172a9",
+        "results" : [ "53ec95c2-8592-4d29-880a-629077f8e52f", "5a8965aa-ed25-45d6-920f-0add3171bee8", "050bba8c-54a0-4cc6-9f64-08a333d849ca" ],
+        "sortIndex" : -20,
+        "title" : "Uniorz Challenge Duel Cup 12 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=5OPwlKWluO0&list=PL81RL9OKZHKTZp26vOjQvHVsm_xJhv8eZ&index=1&t=0s"
+      },
+      "287ac451-9980-4e75-bf35-684b83feb824" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC10_GOLD",
+        "date" : "2018-01-13",
+        "id" : "287ac451-9980-4e75-bf35-684b83feb824",
+        "results" : [ "e3e2af3a-108c-40c8-87eb-d577e122c8f8", "7c9a2bd5-0856-4c62-b51f-bc65bb199fac", "f962c1d6-43d0-48a9-906d-c040efcf9526" ],
+        "sortIndex" : -13,
+        "title" : "Uniorz Challenge Duel Cup 10 GOLD",
+        "video" : "https://www.youtube.com/watch?v=_U7WsXm224g"
+      },
+      "2ffb9b3e-2600-4d1e-91f4-10dc8123b9b3" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC15_SILVER_1350",
+        "date" : "2018-02-24",
+        "id" : "2ffb9b3e-2600-4d1e-91f4-10dc8123b9b3",
+        "results" : [ "8e8e3a95-6a34-466e-a2f3-3bc78774f213", "3f8166e7-c43c-49d4-9fa4-5dc6cd78af7c", "c4b31017-d483-4434-b9d2-24c70a2b9630" ],
+        "sortIndex" : -27,
+        "title" : "Uniorz Challenge Duel Cup 15 SILVER"
+      },
+      "32742159-863c-4d03-adc8-12f522f0943a" : {
+        "bracket" : "https://carnage.challonge.com/uniorzQC19_GOLD_1725",
+        "date" : "2018-04-07",
+        "id" : "32742159-863c-4d03-adc8-12f522f0943a",
+        "results" : [ "0e61f14d-3289-4edc-bd50-021b3358ba5a", "7d108169-bf16-4891-a7b1-89d330232b0d", "6994c1cf-dff5-456c-911c-91c2b12f8e6f" ],
+        "sortIndex" : -43,
+        "title" : "Uniorz Challenge QC Duel Cup #19 GOLD",
+        "video" : "https://www.youtube.com/watch?v=-OgaxbkpBU8&list=PLM2GWd9jxjZfnUtJF6j7-N9o2ESJodS-5"
+      },
+      "32812a3b-f15c-407c-ab93-0d698691f80a" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC9_LOW",
+        "date" : "2018-01-06",
+        "id" : "32812a3b-f15c-407c-ab93-0d698691f80a",
+        "results" : [ "27ed8db7-a63c-41ec-a178-da7d8acbc3b9", "01d4d4b0-2c73-46eb-b459-b7d2d885b90f", "037c5582-ad28-45c8-b0ed-388e94ea093a" ],
+        "sortIndex" : -10,
+        "title" : "Uniorz Challenge Duel Cup 9 LOW",
+        "video" : "https://www.youtube.com/watch?v=V0D33L7Xfdk"
+      },
+      "34f2a9e2-5665-4214-b1e8-f205edf20de7" : {
+        "bracket" : "https://carnage.challonge.com/uniorzQL16_Masters_Elo_1700",
+        "date" : "2018-04-14",
+        "id" : "34f2a9e2-5665-4214-b1e8-f205edf20de7",
+        "results" : [ "649c8876-ed8f-4cdc-b122-45db250fccf3", "e010304d-f027-40f5-80bc-21d040623b7e", "b55fbe92-17b6-404c-bcf4-1a83582595fd" ],
+        "sortIndex" : -45,
+        "title" : "Uniorz Challenge QL Duel Cup #16 Elo Masters 1700",
+        "video" : "https://youtu.be/a2QJFxMTSaY?t=446"
+      },
+      "36bfda8b-0ff6-4191-9945-1c9f4793095d" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC8_MID",
+        "date" : "2017-12-30",
+        "id" : "36bfda8b-0ff6-4191-9945-1c9f4793095d",
+        "results" : [ "c4156a54-c5ce-4bae-877f-2b222c7e80c7", "6560ac69-9232-42fc-9bce-fbb6c5f4a370", "1e0be01d-03dd-4dd6-bf1f-23eb1f953530" ],
+        "sortIndex" : -9,
+        "title" : "Uniorz Challenge Duel Cup 8 MID",
+        "video" : "https://www.youtube.com/watch?v=ORKp3oVQt0c"
+      },
+      "405d1aed-382a-42c5-8a28-7a0b8f112bcb" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC18_GOLD_1725",
+        "date" : "2018-03-24",
+        "id" : "405d1aed-382a-42c5-8a28-7a0b8f112bcb",
+        "results" : [ "f474d9ad-0566-4e3c-bda0-ded2a01eeaa3", "5fcd2f79-6b1e-4ebb-9780-e386b7feb91a", "c1fe4b51-35cc-4d16-a80b-7d5de1e2d5d2" ],
+        "sortIndex" : -38,
+        "title" : "Uniorz Challenge QC Duel Cup #18 GOLD",
+        "video" : "https://www.youtube.com/watch?v=tZqx_EAg0hw&feature=youtu.be"
+      },
+      "41c9f5b2-e3be-4864-9a83-d1a6de7255d5" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC13_SILVER_1350",
+        "date" : "2018-02-10",
+        "id" : "41c9f5b2-e3be-4864-9a83-d1a6de7255d5",
+        "results" : [ "6db2cc18-203e-498d-a307-84d53e0ef460", "4ded04f7-5a52-41a9-8b1d-d1e0e44caf3c", "3ea72881-f04a-4532-b583-91fab6009c31" ],
+        "sortIndex" : -21,
+        "title" : "Uniorz Challenge Duel Cup 13 SILVER"
+      },
+      "45f2ca7f-5d05-497b-b203-e660aa1f842f" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC23_GOLD_1725",
+        "date" : "2018-05-26",
+        "id" : "45f2ca7f-5d05-497b-b203-e660aa1f842f",
+        "results" : [ "b1f5f735-b67b-47a8-93be-54b2c7985f84", "9e8ab90b-a5cf-4f4d-ba0c-b8a239bc7486", "a87ba956-7d95-4ce2-809d-100ecdf8a349" ],
+        "sortIndex" : -56,
+        "title" : "Uniorz Challenge QC Duel Cup #23 GOLD",
+        "video" : "https://www.youtube.com/watch?v=G9kgYyTPpYs"
+      },
+      "469c0ea1-8521-4338-8f11-36ee0b5a9ed6" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC14_DIAMOND_2100",
+        "date" : "2018-02-17",
+        "id" : "469c0ea1-8521-4338-8f11-36ee0b5a9ed6",
+        "results" : [ "8e70f9e2-0568-4a3a-8a98-c1224920f2d7", "edf37cad-7cc7-400e-9113-4ad29790a3ae", "eb78b4a1-cd3d-44de-920e-de7c311eced3" ],
+        "sortIndex" : -26,
+        "title" : "Uniorz Challenge Duel Cup 14 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=mFk34kPL6tE&list=PL81RL9OKZHKRWMMlcBxzyzSMJTaMJWsnO"
+      },
+      "4b4a8202-0b19-4702-bf74-b1adafd464e8" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC25_SILVER_1350",
+        "date" : "2018-06-16",
+        "id" : "4b4a8202-0b19-4702-bf74-b1adafd464e8",
+        "results" : [ "08b2585d-690f-4443-966f-592268b19acf", "4e042da2-820b-4471-882c-30ff3ba089c7", "1d6356fc-3af3-4476-92bc-748562d6f534" ],
+        "sortIndex" : -59,
+        "title" : "Uniorz Challenge QC Duel Cup #25 SILVER",
+        "video" : "https://youtu.be/Cs_pBqHy2ig"
+      },
+      "5605ee69-cd53-4e39-a2ab-cab0ec0090cd" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC22_SILVER_1350",
+        "date" : "2018-05-19",
+        "id" : "5605ee69-cd53-4e39-a2ab-cab0ec0090cd",
+        "results" : [ "d5c69e4a-5fd6-481b-91b2-47d243a6fe3b", "5520c992-d095-4e9e-aff3-34707474d5fe", "f443e517-d6d4-4db6-9b49-fdbbdcf540c5" ],
+        "sortIndex" : -52,
+        "title" : "Uniorz Challenge QC Duel Cup #22 SILVER",
+        "video" : "https://www.youtube.com/watch?v=n4T-C5T3koY&feature=youtu.be"
+      },
+      "5fd77859-ccfd-4569-bc3e-cd388cdc80b0" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC20_SILVER_1350",
+        "date" : "2018-04-30",
+        "id" : "5fd77859-ccfd-4569-bc3e-cd388cdc80b0",
+        "results" : [ "63520278-8f78-4368-9194-7e878e044787", "dadfa90b-bc2d-4251-90df-3d7667a11a1b", "ccc4219a-9c42-4227-8d15-a2dbae60cddd" ],
+        "sortIndex" : -46,
+        "title" : "Uniorz Challenge QC Duel Cup #20 SILVER",
+        "video" : "https://www.youtube.com/watch?v=X_GLneoLDDo"
+      },
+      "65e097f6-0e95-4a0d-ae57-9a7086e40046" : {
+        "bracket" : "http://challonge.com/uniorzQC",
+        "date" : "2017-11-18",
+        "id" : "65e097f6-0e95-4a0d-ae57-9a7086e40046",
+        "results" : [ "a1ff44f5-5452-46c8-a9be-39e62b069b1e", "4bb269d5-4cca-40c2-8504-3d663cf324b5", "ba9a3a91-a389-45d3-af05-d637e9f031b4" ],
+        "sortIndex" : -3,
+        "title" : "Uniorz Challenge Duel Cup 3",
+        "video" : "https://www.youtube.com/watch?v=RFZS2UVSzgE&list=PLhBZp2W3AbYqz-KcSH6NCOHfYrsJqv5jm"
+      },
+      "6a81935d-b3aa-4bf7-a8d9-62ce6bafc602" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC23_SILVER_1350",
+        "date" : "2018-05-26",
+        "id" : "6a81935d-b3aa-4bf7-a8d9-62ce6bafc602",
+        "results" : [ "3cd34388-4b2a-4f94-82c5-30fdf1c3fe6e", "187d8f83-ce24-470b-b74f-08a996015458", "707e633e-5e1d-4703-8203-83a7991b27df", "9898e757-f02b-4178-99fd-02e893213f5b" ],
+        "sortIndex" : -55,
+        "title" : "Uniorz Challenge QC Duel Cup #23 SILVER",
+        "video" : "https://www.youtube.com/watch?v=WMJfi4sjEF0"
+      },
+      "6ec99ad4-de1b-4394-9e4d-6c77c710980e" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC21_SILVER_1350",
+        "date" : "2018-05-12",
+        "id" : "6ec99ad4-de1b-4394-9e4d-6c77c710980e",
+        "results" : [ "96b138e6-cbfa-44c1-bbd0-cbdcde389870", "02fa5175-c667-45d2-b780-68196b1c8986", "584fa079-bbeb-4cba-8d35-60f074874927" ],
+        "sortIndex" : -49,
+        "title" : "Uniorz Challenge QC Duel Cup #21 SILVER",
+        "video" : ""
+      },
+      "75f98b69-ca24-4ba0-b7eb-07c5133cbc7b" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC25_DIAMOND_2100",
+        "date" : "2018-06-16",
+        "id" : "75f98b69-ca24-4ba0-b7eb-07c5133cbc7b",
+        "results" : [ "ae835f9b-d42a-4c2a-a722-84289320c3e7", "d75f80c4-8e2b-441f-99fc-277f247c78b6", "9da32eb9-935b-4794-b88a-9a1fa3e37784" ],
+        "sortIndex" : -61,
+        "title" : "Uniorz Challenge QC Duel Cup #25 DIAMOND"
+      },
+      "7c2d337a-7d94-4364-8860-2e313b679bad" : {
+        "bracket" : "https://carnage.challonge.com/uniorzQC19_DIAMOND_2100",
+        "date" : "2018-04-07",
+        "id" : "7c2d337a-7d94-4364-8860-2e313b679bad",
+        "results" : [ "13a73cbe-11ae-4b89-9e66-becf60543906", "b9387c4f-afd1-48af-be71-cc39b031804a", "5591e528-08a9-4cb1-800a-eb9683474f0e" ],
+        "sortIndex" : -44,
+        "title" : "Uniorz Challenge QC Duel Cup #19 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=PZlota5o854&list=PL81RL9OKZHKQ6UYZkG_Cb8mCPo-UKziCb"
+      },
+      "7e922a4d-2614-4403-88a2-7e11e5a0402b" : {
+        "bracket" : "https://carnage.challonge.com/uniorzQL15_Masters_Elo_1700",
+        "date" : "2018-04-07",
+        "id" : "7e922a4d-2614-4403-88a2-7e11e5a0402b",
+        "results" : [ "2fd8b2dd-9d44-4889-b44c-97081e8390bd", "38f9802a-6639-4cf4-a6a1-fee2cd754c94", "1d81c758-8baf-40f8-ba50-c7d4e2f82e08" ],
+        "sortIndex" : -41,
+        "title" : "Uniorz Challenge QL Duel Cup #15 Elo Masters 1700",
+        "video" : "https://youtu.be/ym1Z4v3bCfg"
+      },
+      "7ea94723-1259-4b73-9666-7b949ab8ac0c" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC20_DIAMOND_2100",
+        "date" : "2018-04-30",
+        "id" : "7ea94723-1259-4b73-9666-7b949ab8ac0c",
+        "results" : [ "652961f0-2562-4c4e-aafb-bd076c796c31", "562a4d84-7e63-40d6-8106-bf839b0cccf4", "addcc857-8d48-463b-857f-75559a5df459" ],
+        "sortIndex" : -48,
+        "title" : "Uniorz Challenge QC Duel Cup #20 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=WWnQaMz6wqw&list=PLM2GWd9jxjZcSgTbgru0w2RVS5Xkszj0J"
+      },
+      "8888b0cf-0e22-4447-8653-0c5ad66e6f06" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC15_DIAMOND_2100",
+        "date" : "2018-02-24",
+        "id" : "8888b0cf-0e22-4447-8653-0c5ad66e6f06",
+        "results" : [ "d6e0a379-9ca0-49f6-9095-253a13e81cbd", "0415e0a9-f41b-4984-bb30-4b1b804fbfed", "d3ddef7b-78ce-41f7-9772-fb4ac99df4fd" ],
+        "sortIndex" : -29,
+        "title" : "Uniorz Challenge Duel Cup 15 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=MfkXjRLDfQM"
+      },
+      "8c3c7af6-d282-45a5-b511-b7c442c3a8bc" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC21_GOLD_1725",
+        "date" : "2018-05-12",
+        "id" : "8c3c7af6-d282-45a5-b511-b7c442c3a8bc",
+        "results" : [ "65451acd-c899-4cef-9ce9-3f0994aad675", "4e9543bd-20b3-499b-9df1-799caf720a87", "e936375a-b2ee-46f9-a054-0b3b6d258304" ],
+        "sortIndex" : -50,
+        "title" : "Uniorz Challenge QC Duel Cup #21 GOLD",
+        "video" : ""
+      },
+      "9097a084-ceeb-4d86-81f1-33c4aa392a30" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC14_GOLD_1725",
+        "date" : "2018-02-17",
+        "id" : "9097a084-ceeb-4d86-81f1-33c4aa392a30",
+        "results" : [ "7d0a1cb5-d361-47d7-bb60-17e2fdf92d80", "b94a98d8-b89f-4fc2-bc91-1a52c7a0a099", "054411f6-08b3-4d7b-869c-d82135f75c90" ],
+        "sortIndex" : -25,
+        "title" : "Uniorz Challenge Duel Cup 14 GOLD",
+        "video" : "https://www.youtube.com/watch?v=14jwWpyMl38&list=PLhBZp2W3AbYrm-kBAoG-sBHBr4KD_1GbJ"
+      },
+      "95715afe-677f-4850-81a8-78d0561b2edf" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC25_GOLD_1725",
+        "date" : "2018-06-16",
+        "id" : "95715afe-677f-4850-81a8-78d0561b2edf",
+        "results" : [ "14bf20ae-a87a-4af8-aef2-2a266c91bf6a", "ab14c370-41d5-4c5c-bd77-b4d740bac8f3", "fe59eaac-fd29-4f76-b20b-abaf50ea9923" ],
+        "sortIndex" : -60,
+        "title" : "Uniorz Challenge QC Duel Cup #25 GOLD",
+        "video" : ""
+      },
+      "97fe2c6b-ba09-4c79-8b5c-c6b4120d40f8" : {
+        "bracket" : "https://carnage.challonge.com/uniorzQCTDM1_LOW",
+        "date" : "2018-04-05",
+        "id" : "97fe2c6b-ba09-4c79-8b5c-c6b4120d40f8",
+        "results" : [ "711a1329-d698-4ed8-a6b1-02b8ad6f0321", "32304261-763b-42f1-84de-7b60d3746157", "be931170-a941-4f39-b2c5-e4e50e216581" ],
+        "sortIndex" : -40,
+        "title" : "Uniorz Challenge QC 2v2 Cup #1",
+        "video" : "https://www.youtube.com/watch?v=kVfYeawXmsE&list=PLM2GWd9jxjZdO19hbkM-0FOF6_2rKx8e9"
+      },
+      "9e62cfa8-6270-43e9-9e80-fef301df7657" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC17_GOLD_1725",
+        "date" : "2018-03-10",
+        "id" : "9e62cfa8-6270-43e9-9e80-fef301df7657",
+        "results" : [ "eea5fcdc-5c54-4ff4-a618-5e4baec0b09d", "c4382e61-25e6-4f2d-bc00-e3c701798eb6", "b8dafde6-8a5a-44e5-9074-2141c3990d3b" ],
+        "sortIndex" : -35,
+        "title" : "Uniorz Challenge QC Duel Cup #17 GOLD",
+        "video" : "https://www.youtube.com/watch?v=4pfUYJ96MnU"
+      },
+      "a5657ffd-704f-4dc2-85d1-936287a647ab" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC19_SILVER_1350",
+        "date" : "2018-04-07",
+        "id" : "a5657ffd-704f-4dc2-85d1-936287a647ab",
+        "results" : [ "aa80702a-34f8-4605-a759-4f6c16ef89b2", "80bfe44a-b2be-43ad-8ee8-88b41024a76b", "54e01bd5-4fae-41e9-92ec-29d1186da508" ],
+        "sortIndex" : -42,
+        "title" : "Uniorz Challenge QC Duel Cup #19 SILVER"
+      },
+      "a61368ce-40f7-48b0-b8e8-ad2edb4519ab" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC6",
+        "date" : "2017-12-16",
+        "id" : "a61368ce-40f7-48b0-b8e8-ad2edb4519ab",
+        "results" : [ "253c2361-e37c-4619-bf6f-5449b93df7eb", "2fc78554-5472-4ee1-b5ef-5034bc9e8f3c", "1f8e6c4c-bf47-49c4-9d7d-a39757d6fa85" ],
+        "sortIndex" : -6,
+        "title" : "Uniorz Challenge Duel Cup 6",
+        "video" : "https://www.youtube.com/watch?v=tQR5BED_wyY&list=PLlLf3prDH-OloDiVsedFC3za0ioIdau2E"
+      },
+      "a897ea95-31bd-4be8-9abb-fcc037bb9cb3" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC16_GOLD_1725",
+        "date" : "2018-03-03",
+        "id" : "a897ea95-31bd-4be8-9abb-fcc037bb9cb3",
+        "results" : [ "94a700aa-2606-483d-8455-e7b21124e0a0", "ab24e556-5311-40fd-9beb-1d82788c0417", "50277593-4d47-4722-9d2a-f9333430e39c" ],
+        "sortIndex" : -32,
+        "title" : "Uniorz Challenge QC Duel Cup #16 GOLD",
+        "video" : "https://www.youtube.com/watch?v=3xb5BmVkQQE"
+      },
+      "abb9a1cc-a4f9-46cf-9e36-7306b15471bb" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC8_LOW",
+        "date" : "2017-12-30",
+        "id" : "abb9a1cc-a4f9-46cf-9e36-7306b15471bb",
+        "results" : [ "d4fc11e7-444b-497e-9e53-e55d489efeaa", "2b323d9d-2e32-48c6-a9a1-a6045baaa53f", "5decb0d8-a306-48a1-89a3-e4b8f5a278fd" ],
+        "sortIndex" : -8,
+        "title" : "Uniorz Challenge Duel Cup 8 LOW",
+        "video" : "https://www.youtube.com/watch?v=IUY7MXqD5XA"
+      },
+      "ae550412-a467-485b-9140-601280b1f7e8" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQCTDM0_MID_HIGH",
+        "date" : "2018-02-25",
+        "id" : "ae550412-a467-485b-9140-601280b1f7e8",
+        "results" : [ "e8553164-6a5b-4600-957a-b6cc9133186c", "86d12b31-e647-4666-aa47-8920bb9ebe2f", "d1523493-c790-465b-9517-ab15dd31dd91" ],
+        "sortIndex" : -30,
+        "title" : "Uniorz Challenge QC 2v2 Cup #0 Medium/High Skill players"
+      },
+      "b0388e9b-fb62-4b65-8ace-7a58cf8e9f2c" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC17_SILVER_1350",
+        "date" : "2018-03-10",
+        "id" : "b0388e9b-fb62-4b65-8ace-7a58cf8e9f2c",
+        "results" : [ "aff6ae31-ef96-49a8-b965-68692bf435f9", "4bfda6c3-cffa-4221-bfb5-686493ff4777", "43905a54-e17c-4a60-89fa-5e529b51ff03" ],
+        "sortIndex" : -34,
+        "title" : "Uniorz Challenge QC Duel Cup #17 SILVER",
+        "video" : "https://www.youtube.com/watch?v=vFJzu-BLTFQ"
+      },
+      "b1a76637-6a28-4297-b1a3-a4711b06d7c3" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC17_DIAMOND_2100",
+        "date" : "2018-03-10",
+        "id" : "b1a76637-6a28-4297-b1a3-a4711b06d7c3",
+        "results" : [ "1f2a7718-9cc6-4295-8441-5d6e33d5ae62", "a4709b39-244d-47e0-8152-5d0ba23fbb5c", "9a79ef96-64a7-4ffb-b4ca-9099d83a25a7" ],
+        "sortIndex" : -36,
+        "title" : "Uniorz Challenge QC Duel Cup #17 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=IXHqjrMoFVY&list=PL81RL9OKZHKRqGxA1grRnwzMMgT6HX3Hi"
+      },
+      "b42f9f0a-53c1-4106-aae3-43047c806fe8" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC22_GOLD_1725",
+        "date" : "2018-05-19",
+        "id" : "b42f9f0a-53c1-4106-aae3-43047c806fe8",
+        "results" : [ "01ce3544-bd4b-49b9-aae1-a0ca3d80b978", "64868ace-3b42-44f3-b10b-40fa7fdb2dfb", "f79f6f86-5424-477b-8232-34a9012f669a" ],
+        "sortIndex" : -53,
+        "title" : "Uniorz Challenge QC Duel Cup #22 GOLD",
+        "video" : ""
+      },
+      "c01f38cc-2777-4e18-8dcb-57792a19070f" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC11_GOLD_1725",
+        "date" : "2018-01-27",
+        "id" : "c01f38cc-2777-4e18-8dcb-57792a19070f",
+        "results" : [ "4c7b05db-f091-484e-8c0c-ea9943c58199", "faaab8f6-a71b-476b-be58-6bdf60bf5631", "bc823c4c-1ca5-4ffd-ab01-5a02a3133378" ],
+        "sortIndex" : -16,
+        "title" : "Uniorz Challenge Duel Cup 11 GOLD | feral's birthday special",
+        "video" : "https://www.youtube.com/watch?v=ueu9x3BTJBo&list=PLhBZp2W3AbYrQNGoJF17lnFarxtfI4W2u"
+      },
+      "c029f190-dc75-42f4-8306-b21cced25ebb" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC10_DIAMOND",
+        "date" : "2018-01-13",
+        "id" : "c029f190-dc75-42f4-8306-b21cced25ebb",
+        "results" : [ "cfaa6c65-1c7d-447b-8cb1-c3a6311c369b", "5133f964-a006-46d4-afab-6d59a9e8cea2", "9e7a452d-3d32-4bae-bb40-4f0ee93752fd" ],
+        "sortIndex" : -14,
+        "title" : "Uniorz Challenge Duel Cup 10 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=RwuXh_fxZPc&list=PL81RL9OKZHKTwjImBHjn-JHqm1NEefeZg"
+      },
+      "c69dbcfd-fc44-406c-9710-ff580ec2d08f" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC15_GOLD_1725",
+        "date" : "2018-02-24",
+        "id" : "c69dbcfd-fc44-406c-9710-ff580ec2d08f",
+        "results" : [ "b2f42658-3f34-4c4d-8943-ffaa35ab7273", "23899ef9-979e-47fa-8da6-13990b9c3d64", "4a65de31-47c3-447b-90d2-137528666d7f" ],
+        "sortIndex" : -28,
+        "title" : "Uniorz Challenge Duel Cup 15 GOLD",
+        "video" : "https://youtu.be/E2KGbV-nbJ8"
+      },
+      "cec63b50-2337-49bf-8efe-a2b6d47ad1b5" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC24_DIAMOND_2100",
+        "date" : "2018-06-10",
+        "id" : "cec63b50-2337-49bf-8efe-a2b6d47ad1b5",
+        "results" : [ "5f6a8919-a668-4f07-b85e-623669e8bc6e", "9d4aa3d2-4562-43ab-9e0a-55bb36d1c7ce", "90bdea81-5c6d-43d1-aed4-ed475fa24dec" ],
+        "sortIndex" : -58,
+        "title" : "Uniorz Challenge QC Duel Cup #24 DIAMOND"
+      },
+      "d2e9ef9a-5c21-4a2a-8051-053bc2842cf9" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC13_DIAMOND_2100",
+        "date" : "2018-02-10",
+        "id" : "d2e9ef9a-5c21-4a2a-8051-053bc2842cf9",
+        "results" : [ "3466fe35-b103-473a-8100-c35dee2e2edc", "e2f2e54c-bfcf-4834-84b5-39498496d972", "215bc88c-8aaa-4094-9b2e-ae9cdab17e8e" ],
+        "sortIndex" : -23,
+        "title" : "Uniorz Challenge Duel Cup 13 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=Yp2EAYH4F5Y&list=PL81RL9OKZHKSOp-kAXi35_DfPR0r1i3-A"
+      },
+      "d6eede0b-e62d-40df-a03a-623bef9c6bff" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC7",
+        "date" : "2017-12-23",
+        "id" : "d6eede0b-e62d-40df-a03a-623bef9c6bff",
+        "results" : [ "69de27b8-d6f6-4e69-8da6-bfb11672017c", "e5cd69ae-ed4a-42d7-bfcc-b8fe50289b5f", "9c6848c3-d133-473a-8813-ab59d6266d11" ],
+        "sortIndex" : -7,
+        "title" : "Uniorz Challenge Duel Cup 7",
+        "video" : "https://www.youtube.com/watch?v=1SC7lRwYW3A"
+      },
+      "d6fd52cb-91da-4fbb-9c26-bcf6d8922b82" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC18_DIAMOND_2100",
+        "date" : "2018-03-24",
+        "id" : "d6fd52cb-91da-4fbb-9c26-bcf6d8922b82",
+        "results" : [ "535e9d04-05ed-43f5-af62-a54cca01e9b4", "811d2e58-8faa-475d-bfc1-b8fae3773ffe", "a463d48b-a81b-4039-bb34-212e58d01d28" ],
+        "sortIndex" : -39,
+        "title" : "Uniorz Challenge QC Duel Cup #18 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=dSdTR304pDk"
+      },
+      "d8aa8c0f-1f60-469d-ad0f-15b30de28dce" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC24_GOLD_1725",
+        "date" : "2018-06-10",
+        "id" : "d8aa8c0f-1f60-469d-ad0f-15b30de28dce",
+        "results" : [ "ba902b1f-b4fa-4777-92cf-fd9a1a94be7c", "298f9804-75b0-48d8-969e-63d31abd66c8", "27138e1a-b4db-4886-b8be-679b857cb73f" ],
+        "sortIndex" : -57,
+        "title" : "Uniorz Challenge QC Duel Cup #24 GOLD",
+        "video" : "https://www.youtube.com/watch?v=Z_SAisavvuU"
+      },
+      "d9f80b53-ae26-4ae5-8d0a-7c2601ad07c2" : {
+        "bracket" : "https://goodgame.ru/cup/6196/grid/",
+        "date" : "2017-11-08",
+        "id" : "d9f80b53-ae26-4ae5-8d0a-7c2601ad07c2",
+        "results" : [ "e2bd741c-d563-429a-a7a2-866a6e665e83", "60c96ea8-0a6b-4f31-b649-fe0ed4930cc9", "07dc0537-fbe9-4ad6-be23-84b6ef8fef64", "43170043-d7a1-4889-9570-e18992e66e7d" ],
+        "sortIndex" : -2,
+        "title" : "Uniorz Challenge Duel Cup 2",
+        "video" : "https://www.youtube.com/watch?v=TI4Uh0JAA5A&list=PLhBZp2W3AbYqdXrPQ1Eg7o3PYA0utF8Pl"
+      },
+      "dd2c925a-bc64-47f6-82ff-6483918dd2aa" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC16_SILVER_1350",
+        "date" : "2018-03-03",
+        "id" : "dd2c925a-bc64-47f6-82ff-6483918dd2aa",
+        "results" : [ "d3ad3e0d-c14f-4a76-ac4c-c80da84f6adc", "9e39bfef-6144-4fd7-87df-3534fc6be110", "29699f57-4bb8-4b91-92eb-65c82fbcfe07" ],
+        "sortIndex" : -31,
+        "title" : "Uniorz Challenge QC Duel Cup #16 SILVER",
+        "video" : "https://www.youtube.com/watch?v=9ZxT7jJr99o"
+      },
+      "e50e04af-b9c6-4c7d-afc5-89e9570c74af" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC12_GOLD_1725",
+        "date" : "2018-02-03",
+        "id" : "e50e04af-b9c6-4c7d-afc5-89e9570c74af",
+        "results" : [ "9663c505-5aff-474f-a70c-b89459c6208f", "74de9694-8ef6-45a6-a60e-9197534a5e39", "7cbfa253-8e49-4f61-8470-508c530e215e" ],
+        "sortIndex" : -19,
+        "title" : "Uniorz Challenge Duel Cup 12 GOLD",
+        "video" : "https://www.youtube.com/watch?v=db2o9H2tyDI"
+      },
+      "e8410050-3c34-4f9b-afae-857b4c697098" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC20_GOLD_1725",
+        "date" : "2018-04-30",
+        "id" : "e8410050-3c34-4f9b-afae-857b4c697098",
+        "results" : [ "9fae1b96-74d0-4301-a3de-eaa48e3b05dc", "c85e344f-8fcb-4a1e-aef0-cfcd06ed9335", "25b6f3c9-97db-462b-97ca-73e592a73888" ],
+        "sortIndex" : -47,
+        "title" : "Uniorz Challenge QC Duel Cup #20 GOLD",
+        "video" : "https://youtu.be/C9Q6WPC9XNI"
+      },
+      "eae676f7-6baa-4906-beb0-6e5dc79ca2ef" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC13_GOLD_1725",
+        "date" : "2018-02-10",
+        "id" : "eae676f7-6baa-4906-beb0-6e5dc79ca2ef",
+        "results" : [ "1b1aec54-9bc6-4f58-b8bf-1bc676ef1320", "5aa5e35b-4546-4917-870b-7653ded2df42", "f3bc6a26-939e-4834-93bf-d82926dee65b" ],
+        "sortIndex" : -22,
+        "title" : "Uniorz Challenge Duel Cup 13 GOLD",
+        "video" : "https://www.youtube.com/watch?v=ej4SSgicBpA&list=PLhBZp2W3AbYp2_Z78w2KjOt_w6mtO2I7n"
+      },
+      "ec49e112-c787-4e41-a7f0-295864abdd4c" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC12_SILVER_1350",
+        "date" : "2018-02-03",
+        "id" : "ec49e112-c787-4e41-a7f0-295864abdd4c",
+        "results" : [ "9bdc1f00-c079-45df-92f1-f46988fc2b6b", "7d0d9b82-d72a-4116-8804-607828817a4c", "6c733f21-a44e-476f-aaba-a8b5f1bba287" ],
+        "sortIndex" : -18,
+        "title" : "Uniorz Challenge Duel Cup 12 SILVER",
+        "video" : "https://www.youtube.com/watch?v=_-i-dj31GnM&list=PLhBZp2W3AbYp6ANP6Clukhg9Azk4PqoPL"
+      },
+      "f0d6de86-31ce-47e9-9e8e-7327d2a40ef4" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC21_DIAMOND_2100",
+        "date" : "2018-05-12",
+        "id" : "f0d6de86-31ce-47e9-9e8e-7327d2a40ef4",
+        "results" : [ "6c306551-c5df-473c-9d64-6338b94087dc", "7caf801e-8094-4aab-b311-e7dc3b048d8d", "4b2878d4-a96f-4eed-9073-538a5c5f9ec8" ],
+        "sortIndex" : -51,
+        "title" : "Uniorz Challenge QC Duel Cup #21 DIAMOND",
+        "video" : "https://www.youtube.com/watch?v=P7R11Od5WM8&list=PL81RL9OKZHKRzjxDM800YX2OP4Wvop_6j"
+      },
+      "f563597b-fb82-4c95-bb05-b5414df627b1" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC11_SILVER_1350",
+        "date" : "2018-01-27",
+        "id" : "f563597b-fb82-4c95-bb05-b5414df627b1",
+        "results" : [ "b8d832c0-9de1-4368-86e7-a83305b58ead", "36e83007-9266-4b7d-93ce-5ad96de47bc3", "ad1ce484-d2fb-4ba9-98a2-37faf08f4058" ],
+        "sortIndex" : -15,
+        "title" : "Uniorz Challenge Duel Cup 11 SILVER | feral's birthday special"
+      },
+      "f57e8cd2-807c-4bdb-86fb-4c943c21358b" : {
+        "bracket" : "http://challonge.com/uniorzQC4",
+        "date" : "2017-11-25",
+        "id" : "f57e8cd2-807c-4bdb-86fb-4c943c21358b",
+        "results" : [ "eea1ee8d-6508-4948-90f7-30dc33e81c6e", "65aa9a24-da75-4e87-b32e-5782c443a11b", "03c5b629-6b36-40ed-9920-037e2290067f" ],
+        "sortIndex" : -4,
+        "title" : "Uniorz Challenge Duel Cup 4",
+        "video" : "https://www.youtube.com/watch?v=W_8-GPMs7Qw&list=PLhBZp2W3AbYqR4XQjYeALnL3ecmeXzBj6"
+      },
+      "f61b5a11-05c6-4e81-8f1f-2712e778bf7f" : {
+        "bracket" : "http://challonge.com/uniorzqc55",
+        "date" : "2017-12-09",
+        "id" : "f61b5a11-05c6-4e81-8f1f-2712e778bf7f",
+        "results" : [ "33cabe82-56ae-445a-97be-bfd847c2b279", "64672947-07ac-43a5-855e-96f512c2c84b", "6155ba0a-86af-4799-8892-5d66e2f615f3" ],
+        "sortIndex" : -5,
+        "title" : "Uniorz Challenge Duel Cup 5",
+        "video" : "https://www.youtube.com/watch?v=LRG4Xq8M4R8&list=PLhBZp2W3AbYobvNkYHf2qfNDCAxIDrxt9"
+      },
+      "f80dcf13-a8cf-4b31-9cf4-57ab000ee118" : {
+        "bracket" : "http://carnage.challonge.com/uniorzQC18_SILVER_1350",
+        "date" : "2018-03-24",
+        "id" : "f80dcf13-a8cf-4b31-9cf4-57ab000ee118",
+        "results" : [ "10201330-3b2b-4d66-aeae-57ac80712748", "da2291b7-1bd6-4eb7-8df3-1c7e872fe3ee", "138d4afd-0363-487b-9abc-13ca49ed715a" ],
+        "sortIndex" : -37,
+        "title" : "Uniorz Challenge QC Duel Cup #18 SILVER",
+        "video" : "https://www.youtube.com/watch?v=MekpNWGEhKg&feature=youtu.be"
+      },
+      "feed5f0f-5487-4e0f-b4c1-12ea0136ea23" : {
+        "bracket" : "https://carnage.challonge.com/ru/uniorzQC22_DIAMOND_2100",
+        "date" : "2018-05-19",
+        "id" : "feed5f0f-5487-4e0f-b4c1-12ea0136ea23",
+        "results" : [ "ffc9c4a3-35dd-42e0-a956-a8665d55e766", "3b903ed8-d5bc-4baf-aff7-2f9432c4d914", "a395b4c8-ceb4-4127-abd6-b281778b57d3" ],
+        "sortIndex" : -54,
+        "title" : "Uniorz Challenge QC Duel Cup #22 DIAMOND",
+        "video" : ""
+      }
+    }
+  },
+  "result" : [ "75f98b69-ca24-4ba0-b7eb-07c5133cbc7b", "95715afe-677f-4850-81a8-78d0561b2edf", "4b4a8202-0b19-4702-bf74-b1adafd464e8", "cec63b50-2337-49bf-8efe-a2b6d47ad1b5", "d8aa8c0f-1f60-469d-ad0f-15b30de28dce", "45f2ca7f-5d05-497b-b203-e660aa1f842f", "6a81935d-b3aa-4bf7-a8d9-62ce6bafc602", "feed5f0f-5487-4e0f-b4c1-12ea0136ea23", "b42f9f0a-53c1-4106-aae3-43047c806fe8", "5605ee69-cd53-4e39-a2ab-cab0ec0090cd", "f0d6de86-31ce-47e9-9e8e-7327d2a40ef4", "8c3c7af6-d282-45a5-b511-b7c442c3a8bc", "6ec99ad4-de1b-4394-9e4d-6c77c710980e", "7ea94723-1259-4b73-9666-7b949ab8ac0c", "e8410050-3c34-4f9b-afae-857b4c697098", "5fd77859-ccfd-4569-bc3e-cd388cdc80b0", "34f2a9e2-5665-4214-b1e8-f205edf20de7", "7c2d337a-7d94-4364-8860-2e313b679bad", "32742159-863c-4d03-adc8-12f522f0943a", "a5657ffd-704f-4dc2-85d1-936287a647ab", "7e922a4d-2614-4403-88a2-7e11e5a0402b", "97fe2c6b-ba09-4c79-8b5c-c6b4120d40f8", "d6fd52cb-91da-4fbb-9c26-bcf6d8922b82", "405d1aed-382a-42c5-8a28-7a0b8f112bcb", "f80dcf13-a8cf-4b31-9cf4-57ab000ee118", "b1a76637-6a28-4297-b1a3-a4711b06d7c3", "9e62cfa8-6270-43e9-9e80-fef301df7657", "b0388e9b-fb62-4b65-8ace-7a58cf8e9f2c", "0aef0772-c74d-4c39-a77e-2b6272412450", "a897ea95-31bd-4be8-9abb-fcc037bb9cb3", "dd2c925a-bc64-47f6-82ff-6483918dd2aa", "ae550412-a467-485b-9140-601280b1f7e8", "8888b0cf-0e22-4447-8653-0c5ad66e6f06", "c69dbcfd-fc44-406c-9710-ff580ec2d08f", "2ffb9b3e-2600-4d1e-91f4-10dc8123b9b3", "469c0ea1-8521-4338-8f11-36ee0b5a9ed6", "9097a084-ceeb-4d86-81f1-33c4aa392a30", "027017d0-4514-4528-8a33-0a3844d1ac2f", "d2e9ef9a-5c21-4a2a-8051-053bc2842cf9", "eae676f7-6baa-4906-beb0-6e5dc79ca2ef", "41c9f5b2-e3be-4864-9a83-d1a6de7255d5", "1723f408-77c1-4be2-89e1-6a3feb2172a9", "e50e04af-b9c6-4c7d-afc5-89e9570c74af", "ec49e112-c787-4e41-a7f0-295864abdd4c", "085f2f57-5dec-4484-90d9-74ce5ae81706", "c01f38cc-2777-4e18-8dcb-57792a19070f", "f563597b-fb82-4c95-bb05-b5414df627b1", "c029f190-dc75-42f4-8306-b21cced25ebb", "287ac451-9980-4e75-bf35-684b83feb824", "0f368ace-de41-47ba-a002-7581c995a326", "0f262e20-b680-4a06-b934-af469e59a660", "32812a3b-f15c-407c-ab93-0d698691f80a", "36bfda8b-0ff6-4191-9945-1c9f4793095d", "abb9a1cc-a4f9-46cf-9e36-7306b15471bb", "d6eede0b-e62d-40df-a03a-623bef9c6bff", "a61368ce-40f7-48b0-b8e8-ad2edb4519ab", "f61b5a11-05c6-4e81-8f1f-2712e778bf7f", "f57e8cd2-807c-4bdb-86fb-4c943c21358b", "65e097f6-0e95-4a0d-ae57-9a7086e40046", "d9f80b53-ae26-4ae5-8d0a-7c2601ad07c2", "0fe907db-fa21-49ab-ab0d-e238719bab45" ]
+}
