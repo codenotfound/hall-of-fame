@@ -14,7 +14,11 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
       <div class="jumbotron bg-white mt-4">
         <h2>
           The{" "}
-          <a target="_blank" href="https://carnage.challonge.com/">
+          <a
+            target="_blank"
+            href="https://carnage.challonge.com/"
+            rel="noopener noreferrer"
+          >
             next tournament
           </a>{" "}
           starts in:

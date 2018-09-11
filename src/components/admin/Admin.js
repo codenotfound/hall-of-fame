@@ -1,15 +1,5 @@
 import React from "react";
-import {
-  Col,
-  Button,
-  Form,
-  FormGroup,
-  Label,
-  Input,
-  FormText,
-  Container,
-  Row
-} from "reactstrap";
+import { Col, Form, FormGroup, Label, Input, Container, Row } from "reactstrap";
 
 class Admin extends React.Component {
   render() {
