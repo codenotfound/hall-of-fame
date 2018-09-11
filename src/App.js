@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 import './App.css';
 import 'loaders.css/loaders.css';
 import TournamentList from './components/tournament-list/TournamentList';
@@ -7,7 +8,7 @@ import About from './components/about/About';
 import Media from './components/media/Media';
 import Player from './components/player/Player';
 import VideoGrid from './components/video-grid/VideoGrid';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import Admin from './components/admin/Admin';
 import base from './base';
 
 const queryString = require('query-string');
@@ -90,6 +91,7 @@ class App extends Component {
                         isLoading={this.state.isLoading}
                 />
             )}/>
+            <Route path="/admin" render={props => (<Admin {...props}/>)}/>
           </div>
         </Router>);
   }
