@@ -41,6 +41,6 @@ export default class TournamentCountdown extends Component {
   };
 
   render() {
-    return <Countdown date={1537624800000} renderer={renderer} />;
+    return <Countdown date={1546437600000} renderer={renderer} />;
   }
 }
