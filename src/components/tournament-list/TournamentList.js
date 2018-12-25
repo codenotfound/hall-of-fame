@@ -72,6 +72,9 @@ export default class TournamentList extends Component {
         <h1 className="display-3 text-center mb-5 mt-2">
           Carnage League Hall Of&nbsp;Fame
         </h1>
+        <div class="alert alert-secondary" role="alert">
+          Tournament chronicles continue on <a href="https://carnage.challonge.com/" class="alert-link">Challonge</a>.
+        </div>
         <SearchInput handleChange={this.filterByNickName} />
 
         {this.props.isLoading && <Loader />}
